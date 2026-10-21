@@ -1,0 +1,1001 @@
+id,manufacturer,model,year,price,transmission,fuel,odometer,condition,vehicle_type,paint_color
+1,BMW,3 Series,2021,34959,Automatic,Diesel,40598,Like New,Sedan,Blue
+2,Honda,Civic,2011,12220,Automatic,Gasoline,188809,Good,Hatchback,Gray
+3,Ford,Focus,2014,26179,Automatic,Gasoline,119815,Excellent,Truck,Black
+4,Toyota,Camry,2015,22074,Automatic,Diesel,107371,Salvation,Coupe,Black
+5,Chevrolet,Suburban,2019,26297,Automatic,Gasoline,69993,Fair,Sedan,Green
+6,Ford,F-150,2016,21351,Automatic,Gasoline,128840,Good,Wagon,Red
+7,BMW,M3,2020,39350,Automatic,Gasoline,73875,Salvation,Wagon,Red
+8,Chevrolet,Suburban,2015,18294,Automatic,Gasoline,92788,Like New,Hatchback,Red
+9,Ford,Edge,2017,24691,Automatic,Gasoline,99404,Good,Truck,Red
+10,Chevrolet,Camaro,2016,16828,Manual,Gasoline,94545,Fair,SUV,Red
+11,Toyota,Prius,2016,12355,Automatic,Gasoline,110620,Excellent,Hatchback,Green
+12,Audi,Q3,2021,43431,Automatic,Gasoline,60894,Excellent,Coupe,White
+13,Honda,HR-V,2024,31844,Manual,Hybrid,13780,Excellent,Wagon,Blue
+14,BMW,5 Series,2015,33514,Automatic,Gasoline,128449,Excellent,Truck,Green
+15,Nissan,Sentra,2010,16322,Manual,Diesel,141078,Salvation,Hatchback,Green
+16,Toyota,Prius,2017,15602,Automatic,Hybrid,93013,Excellent,Hatchback,Green
+17,Mercedes-Benz,E-Class,2021,37184,Manual,Gasoline,63655,Good,SUV,White
+18,Toyota,Camry,2019,19033,Automatic,Gasoline,81528,Excellent,Sedan,Black
+19,Hyundai,Elantra,2018,21213,Automatic,Gasoline,104313,Like New,Hatchback,Blue
+20,Honda,Pilot,2022,23185,Automatic,Gasoline,25904,Good,Wagon,Black
+21,BMW,7 Series,2011,27300,Automatic,Hybrid,210069,Excellent,Hatchback,Gray
+22,Toyota,Corolla,2014,14103,Manual,Hybrid,108047,Excellent,Wagon,Blue
+23,Nissan,Altima,2024,26588,Manual,Gasoline,15285,Like New,SUV,Gray
+24,Toyota,Highlander,2014,14746,CVT,Electric,143527,Good,Wagon,Gray
+25,Toyota,RAV4,2013,21610,Automatic,Diesel,157290,Good,Hatchback,Green
+26,Chevrolet,Silverado,2018,31892,Automatic,Gasoline,69776,Excellent,Sedan,Blue
+27,Ford,Focus,2010,15197,Automatic,Gasoline,220337,Excellent,Wagon,Red
+28,Ford,Explorer,2016,26132,CVT,Gasoline,128498,Like New,Sedan,Gray
+29,BMW,M3,2011,29408,CVT,Gasoline,153732,Like New,SUV,Silver
+30,Ford,Escape,2023,31676,Manual,Electric,27977,Good,Wagon,Green
+31,Chevrolet,Suburban,2011,13433,Automatic,Diesel,135983,Excellent,SUV,Red
+32,Honda,HR-V,2020,27118,Manual,Hybrid,64124,Excellent,Coupe,Green
+33,Ford,F-150,2015,24367,Automatic,Diesel,109097,Good,Sedan,Black
+34,Toyota,Prius,2024,33517,Automatic,Gasoline,10344,Excellent,Truck,Silver
+35,Hyundai,Elantra,2024,26310,Automatic,Gasoline,13675,Good,Coupe,Blue
+36,Mercedes-Benz,E-Class,2023,47374,Automatic,Gasoline,22655,Excellent,Coupe,Green
+37,BMW,7 Series,2022,36739,Automatic,Diesel,38812,Excellent,Coupe,White
+38,Ford,Escape,2015,25943,Automatic,Gasoline,107292,Excellent,Sedan,Green
+39,Ford,Edge,2018,26459,Automatic,Hybrid,94169,Salvation,SUV,Blue
+40,Volkswagen,Tiguan,2010,17886,Automatic,Diesel,189048,Good,Hatchback,Black
+41,Honda,Fit,2013,11241,CVT,Gasoline,179816,Good,Wagon,Red
+42,Mercedes-Benz,E-Class,2015,23613,Automatic,Gasoline,144819,Excellent,Truck,Blue
+43,Ford,Escape,2015,23127,Automatic,Gasoline,118303,Like New,Wagon,Red
+44,Hyundai,Kona,2019,23988,Automatic,Gasoline,75934,Fair,Hatchback,Red
+45,Ford,Escape,2017,24025,Automatic,Gasoline,110065,Good,Wagon,Blue
+46,Ford,Mustang,2020,22138,Automatic,Gasoline,50569,Good,Sedan,Gray
+47,Honda,HR-V,2019,29977,Automatic,Gasoline,89515,Good,Sedan,Green
+48,Hyundai,Elantra,2022,23503,Automatic,Gasoline,37721,Excellent,Sedan,Gray
+49,Toyota,Highlander,2020,25806,Manual,Electric,69583,Good,Wagon,Blue
+50,Honda,Fit,2017,28281,Automatic,Gasoline,105477,Good,Hatchback,Gray
+51,BMW,X3,2017,39456,Automatic,Gasoline,89561,Good,SUV,White
+52,Ford,Edge,2012,10700,Automatic,Gasoline,162852,Excellent,Coupe,Gray
+53,Hyundai,Kona,2021,34583,CVT,Gasoline,56096,Excellent,Coupe,Green
+54,Hyundai,Santa Fe,2018,27232,Automatic,Gasoline,96200,Good,Coupe,Silver
+55,BMW,X5,2021,45618,Automatic,Electric,48403,Like New,Hatchback,Blue
+56,BMW,3 Series,2020,30712,Automatic,Gasoline,61887,Excellent,Truck,Silver
+57,Mercedes-Benz,GLE,2014,25480,Automatic,Gasoline,109075,Salvation,Truck,White
+58,BMW,7 Series,2010,23797,Automatic,Gasoline,154828,Good,Sedan,Blue
+59,Audi,Q7,2021,43665,CVT,Gasoline,45833,Good,SUV,Silver
+60,Toyota,Camry,2024,32678,Automatic,Gasoline,15697,Excellent,Wagon,Green
+61,BMW,3 Series,2021,44661,Manual,Hybrid,63257,Good,Sedan,Silver
+62,Chevrolet,Suburban,2015,22725,Automatic,Gasoline,143630,Good,Coupe,Silver
+63,BMW,X5,2021,39082,Automatic,Gasoline,48790,Good,Hatchback,Green
+64,Chevrolet,Tahoe,2023,24144,Automatic,Hybrid,22302,Like New,SUV,Green
+65,Honda,Fit,2020,23407,Automatic,Hybrid,49273,Excellent,Truck,Silver
+66,Ford,Focus,2021,29043,Automatic,Hybrid,39796,Good,Coupe,Blue
+67,Mercedes-Benz,CLA,2017,31722,Automatic,Gasoline,69652,Excellent,Wagon,Blue
+68,Honda,Fit,2018,22755,Automatic,Gasoline,94975,Excellent,SUV,Black
+69,Mercedes-Benz,GLC,2011,29298,Automatic,Gasoline,203175,Excellent,Hatchback,Green
+70,Chevrolet,Equinox,2011,13463,Automatic,Gasoline,152994,Good,Truck,Black
+71,Volkswagen,Golf,2014,23216,Automatic,Hybrid,139911,Good,Coupe,Silver
+72,Ford,F-150,2014,11756,Automatic,Gasoline,106450,Good,SUV,White
+73,Nissan,Rogue,2011,10107,Automatic,Gasoline,197518,Good,Hatchback,Gray
+74,Honda,Pilot,2014,16004,Automatic,Gasoline,130827,Good,SUV,Red
+75,Ford,Edge,2011,12843,Automatic,Gasoline,149965,Good,Hatchback,Gray
+76,Ford,Mustang,2014,23001,CVT,Gasoline,136075,Fair,Wagon,Blue
+77,BMW,5 Series,2016,35182,Automatic,Gasoline,103179,Excellent,Sedan,White
+78,Nissan,Frontier,2021,22266,Automatic,Gasoline,47425,Good,Truck,Blue
+79,Chevrolet,Tahoe,2011,5954,Automatic,Gasoline,182580,Excellent,Wagon,Green
+80,Hyundai,Kona,2010,16234,Automatic,Diesel,147437,Good,Truck,White
+81,Volkswagen,Atlas,2020,18466,Automatic,Gasoline,64950,Excellent,SUV,Silver
+82,Honda,Pilot,2014,23849,Automatic,Gasoline,144167,Excellent,Coupe,Green
+83,Chevrolet,Silverado,2020,24125,Automatic,Gasoline,57813,Fair,Wagon,Gray
+84,Mercedes-Benz,E-Class,2014,22447,Automatic,Hybrid,127127,Excellent,Wagon,Blue
+85,Nissan,Murano,2012,17879,Automatic,Gasoline,122504,Fair,Sedan,Gray
+86,Audi,Q3,2023,42504,Automatic,Gasoline,29521,Fair,Coupe,White
+87,Honda,Accord,2016,24459,Manual,Hybrid,125694,Excellent,Coupe,Silver
+88,Audi,A3,2014,29413,Automatic,Hybrid,164308,Good,SUV,Gray
+89,Chevrolet,Equinox,2015,22977,Automatic,Gasoline,135690,Excellent,Wagon,White
+90,Chevrolet,Malibu,2023,21950,CVT,Gasoline,30413,Excellent,Wagon,Green
+91,Nissan,Sentra,2017,19165,Automatic,Gasoline,109581,Fair,Sedan,Blue
+92,Audi,A4,2021,38737,Manual,Gasoline,54981,Excellent,Hatchback,Red
+93,Honda,Civic,2023,35873,Automatic,Gasoline,32790,Good,Coupe,Green
+94,Chevrolet,Camaro,2011,18617,Automatic,Electric,204192,Good,Sedan,Green
+95,BMW,3 Series,2017,38408,Manual,Gasoline,87098,Excellent,Truck,Gray
+96,Toyota,Tacoma,2016,22734,Automatic,Gasoline,92060,Excellent,Wagon,White
+97,Chevrolet,Camaro,2012,17053,Automatic,Gasoline,184086,Like New,Coupe,Silver
+98,BMW,5 Series,2011,23243,Automatic,Gasoline,193283,Excellent,Truck,White
+99,Volkswagen,Atlas,2011,14505,CVT,Gasoline,192471,Excellent,Wagon,Gray
+100,Ford,Focus,2023,34134,Automatic,Diesel,25827,Fair,SUV,Red
+101,Ford,Explorer,2020,30173,Automatic,Gasoline,54255,Good,Hatchback,Silver
+102,Mercedes-Benz,C-Class,2024,39735,Manual,Gasoline,10280,Like New,Truck,Blue
+103,Chevrolet,Equinox,2023,27463,Automatic,Diesel,25729,Excellent,Sedan,White
+104,Mercedes-Benz,E-Class,2023,46201,Automatic,Gasoline,28122,Excellent,Sedan,Gray
+105,Honda,HR-V,2020,28430,Automatic,Hybrid,66066,Excellent,Sedan,Blue
+106,Hyundai,Kona,2015,13629,Automatic,Gasoline,139085,Good,Wagon,Gray
+107,Toyota,Camry,2010,14578,Automatic,Gasoline,145857,Excellent,Truck,Red
+108,Audi,Q3,2018,35789,Automatic,Hybrid,102195,Fair,Hatchback,Gray
+109,Audi,Q5,2010,20524,Manual,Electric,191765,Excellent,Wagon,Silver
+110,Chevrolet,Suburban,2015,21027,CVT,Electric,110709,Fair,Sedan,Red
+111,Ford,Edge,2019,20454,Manual,Electric,69382,Excellent,Hatchback,White
+112,Chevrolet,Malibu,2015,26713,CVT,Gasoline,133866,Salvation,Hatchback,Silver
+113,Nissan,Altima,2020,22948,Automatic,Diesel,46474,Excellent,SUV,Silver
+114,Toyota,Prius,2016,13753,Automatic,Gasoline,88482,Good,Coupe,Blue
+115,Ford,Focus,2010,9670,Automatic,Electric,196820,Good,Coupe,Gray
+116,BMW,X5,2021,30771,Automatic,Gasoline,38921,Excellent,Wagon,Blue
+117,Chevrolet,Equinox,2016,19999,Automatic,Gasoline,105168,Fair,Sedan,Green
+118,BMW,M3,2021,38485,Manual,Gasoline,49539,Excellent,Wagon,Black
+119,Ford,Explorer,2020,25044,Automatic,Hybrid,57502,Fair,Sedan,Gray
+120,Toyota,Prius,2015,23050,Automatic,Electric,99518,Good,Coupe,Silver
+121,Hyundai,Santa Fe,2023,28891,Automatic,Gasoline,27955,Excellent,Wagon,Gray
+122,Ford,F-150,2015,16466,Automatic,Gasoline,106904,Good,Hatchback,Green
+123,Nissan,Frontier,2020,16870,Automatic,Hybrid,75717,Excellent,Wagon,Green
+124,Ford,Explorer,2015,17922,Automatic,Gasoline,106008,Good,Sedan,Black
+125,Mercedes-Benz,E-Class,2016,31193,Automatic,Gasoline,103706,Fair,Hatchback,Blue
+126,Toyota,Camry,2012,22471,Automatic,Gasoline,178608,Good,Coupe,Blue
+127,Honda,CR-V,2013,10267,Automatic,Gasoline,143967,Good,Hatchback,Red
+128,Ford,Mustang,2016,12188,Automatic,Gasoline,79907,Excellent,Truck,Silver
+129,Ford,F-150,2017,16751,Automatic,Gasoline,81693,Good,Wagon,Green
+130,Honda,Pilot,2023,31401,Manual,Hybrid,20838,Good,Hatchback,Gray
+131,Mercedes-Benz,GLE,2014,30493,CVT,Gasoline,101191,Good,Wagon,Silver
+132,Toyota,Camry,2013,18679,Manual,Gasoline,150944,Good,SUV,Silver
+133,Nissan,Altima,2018,26359,Automatic,Hybrid,90415,Good,Wagon,Green
+134,Toyota,Camry,2012,12536,Manual,Gasoline,140342,Excellent,Wagon,Gray
+135,Honda,Fit,2022,26007,CVT,Gasoline,47985,Excellent,Wagon,Silver
+136,Toyota,Camry,2017,24122,Automatic,Gasoline,91340,Excellent,Coupe,Gray
+137,Toyota,RAV4,2023,23506,Automatic,Gasoline,25041,Good,Hatchback,Green
+138,Mercedes-Benz,C-Class,2017,34396,Automatic,Gasoline,84603,Like New,Coupe,Black
+139,Nissan,Rogue,2021,29776,Automatic,Gasoline,54999,Salvation,Hatchback,Blue
+140,BMW,X3,2015,30030,Automatic,Gasoline,131168,Fair,Wagon,Silver
+141,Toyota,Camry,2018,20089,CVT,Hybrid,84305,Good,SUV,Silver
+142,Toyota,Prius,2012,13617,Automatic,Gasoline,193305,Good,Sedan,Silver
+143,Chevrolet,Suburban,2022,34033,CVT,Diesel,36117,Salvation,Hatchback,Black
+144,BMW,X5,2018,26934,Automatic,Gasoline,83850,Like New,Coupe,White
+145,Ford,Mustang,2012,15614,Manual,Diesel,131081,Like New,Sedan,Red
+146,Ford,Focus,2012,12680,Automatic,Gasoline,131077,Good,SUV,Red
+147,Honda,Pilot,2015,20332,Manual,Diesel,139678,Excellent,SUV,Silver
+148,Volkswagen,Atlas,2024,30237,Automatic,Electric,18901,Excellent,Coupe,Blue
+149,Chevrolet,Malibu,2023,36092,Automatic,Hybrid,25173,Good,Truck,Blue
+150,Audi,Q3,2023,45319,Automatic,Gasoline,19712,Good,Hatchback,White
+151,Nissan,Altima,2024,37362,Automatic,Hybrid,13422,Excellent,Truck,White
+152,Honda,Civic,2015,13622,Automatic,Hybrid,112723,Fair,SUV,Black
+153,Ford,Escape,2021,33496,Automatic,Gasoline,61801,Excellent,Truck,White
+154,Nissan,Frontier,2021,25860,Automatic,Diesel,46689,Excellent,SUV,Gray
+155,BMW,M3,2017,29702,Automatic,Gasoline,109528,Good,Wagon,White
+156,Ford,F-150,2019,20851,Automatic,Gasoline,83869,Good,Truck,Black
+157,Audi,A3,2018,34521,Automatic,Hybrid,65559,Excellent,Truck,Silver
+158,Mercedes-Benz,GLC,2022,39496,Automatic,Gasoline,39933,Good,Truck,White
+159,Toyota,Tacoma,2015,27171,Automatic,Electric,148692,Excellent,SUV,Black
+160,Mercedes-Benz,GLE,2010,20899,Automatic,Gasoline,148331,Like New,Hatchback,Gray
+161,Volkswagen,Golf,2017,15924,Manual,Gasoline,112523,Excellent,Wagon,Silver
+162,Ford,Explorer,2016,25102,Automatic,Gasoline,114752,Good,Truck,Green
+163,Chevrolet,Silverado,2021,20016,Automatic,Electric,54978,Excellent,Sedan,Black
+164,Ford,Explorer,2014,20021,Automatic,Gasoline,165650,Good,Wagon,Green
+165,Audi,A3,2016,35428,Automatic,Gasoline,81450,Good,Wagon,Red
+166,Toyota,Camry,2012,17532,Automatic,Gasoline,159227,Good,Truck,Gray
+167,Audi,A4,2019,40669,Manual,Gasoline,77187,Good,Hatchback,Silver
+168,Honda,HR-V,2014,13614,Automatic,Gasoline,108385,Like New,Sedan,Silver
+169,Nissan,Murano,2017,25667,Automatic,Hybrid,97082,Excellent,Sedan,Gray
+170,Toyota,Prius,2017,29960,Automatic,Gasoline,116924,Good,Truck,Silver
+171,Hyundai,Palisade,2021,33777,CVT,Gasoline,51179,Fair,SUV,Green
+172,Chevrolet,Equinox,2018,19956,Manual,Gasoline,93834,Excellent,Coupe,Red
+173,Mercedes-Benz,S-Class,2016,37335,Automatic,Gasoline,119589,Excellent,Coupe,Red
+174,Chevrolet,Malibu,2024,31766,Automatic,Diesel,11796,Good,Sedan,Green
+175,Toyota,Corolla,2014,15105,CVT,Gasoline,134694,Good,Truck,Green
+176,Toyota,Corolla,2020,20984,Automatic,Gasoline,55365,Good,SUV,Blue
+177,Audi,A6,2012,22974,Automatic,Hybrid,172695,Excellent,Wagon,Green
+178,Chevrolet,Suburban,2013,14739,Manual,Gasoline,174225,Good,Wagon,Silver
+179,Chevrolet,Suburban,2016,21194,Automatic,Gasoline,92655,Good,SUV,Silver
+180,BMW,X3,2023,45014,Automatic,Gasoline,25190,Good,Truck,White
+181,Honda,CR-V,2017,17678,Automatic,Gasoline,74173,Good,SUV,Green
+182,Hyundai,Tucson,2024,32882,Automatic,Diesel,9671,Good,Coupe,Silver
+183,Chevrolet,Silverado,2016,19551,Automatic,Gasoline,97272,Excellent,Hatchback,Green
+184,BMW,X5,2014,20537,Automatic,Gasoline,110740,Excellent,Coupe,Silver
+185,Toyota,Camry,2019,18387,Automatic,Gasoline,75878,Good,Hatchback,Silver
+186,Nissan,Frontier,2020,22135,CVT,Gasoline,50413,Good,Truck,Green
+187,Toyota,Tacoma,2018,23505,Automatic,Gasoline,61045,Fair,Hatchback,Gray
+188,Toyota,Tacoma,2012,18758,Automatic,Gasoline,148579,Fair,Hatchback,Silver
+189,Chevrolet,Camaro,2018,26199,Automatic,Gasoline,95188,Excellent,Sedan,Gray
+190,Chevrolet,Suburban,2023,34161,Manual,Electric,25124,Fair,Hatchback,White
+191,Mercedes-Benz,S-Class,2017,35593,Manual,Gasoline,120031,Excellent,Wagon,White
+192,Toyota,Prius,2011,8948,Automatic,Gasoline,176707,Excellent,Hatchback,Green
+193,BMW,X5,2023,46653,Automatic,Gasoline,23760,Good,Hatchback,Gray
+194,Ford,Mustang,2017,18641,Manual,Gasoline,108604,Good,Wagon,Silver
+195,BMW,5 Series,2013,30458,CVT,Hybrid,136024,Fair,Wagon,White
+196,Mercedes-Benz,GLE,2015,27784,Automatic,Gasoline,142733,Good,Coupe,Gray
+197,Nissan,Sentra,2014,18168,Automatic,Gasoline,159644,Excellent,Coupe,White
+198,Ford,Focus,2014,20602,Automatic,Gasoline,120724,Excellent,Sedan,Red
+199,Hyundai,Sonata,2020,19953,Automatic,Gasoline,50871,Good,SUV,Black
+200,Volkswagen,Passat,2016,20126,Automatic,Diesel,127228,Excellent,Sedan,Green
+201,Toyota,Tacoma,2013,20319,Automatic,Hybrid,174687,Like New,SUV,Black
+202,Volkswagen,Atlas,2022,22394,Automatic,Gasoline,29726,Excellent,Truck,Silver
+203,Honda,HR-V,2018,22397,Automatic,Gasoline,73954,Excellent,SUV,Red
+204,Honda,CR-V,2021,20905,Automatic,Gasoline,54999,Excellent,Hatchback,Green
+205,BMW,X5,2023,40539,Automatic,Gasoline,19793,Salvation,Coupe,Silver
+206,Audi,A4,2014,25516,Automatic,Gasoline,146598,Good,Hatchback,Black
+207,Ford,Explorer,2021,21282,Automatic,Gasoline,54816,Good,Wagon,Green
+208,Ford,F-150,2020,24605,Automatic,Gasoline,68793,Excellent,Wagon,Blue
+209,Honda,HR-V,2018,27151,Manual,Hybrid,99701,Good,Hatchback,Green
+210,Nissan,Frontier,2017,24604,Automatic,Hybrid,91983,Fair,Hatchback,White
+211,Chevrolet,Malibu,2012,22712,Automatic,Gasoline,174645,Good,Sedan,Blue
+212,Honda,Civic,2017,24729,Automatic,Gasoline,101708,Good,Truck,Red
+213,Toyota,RAV4,2023,36795,Automatic,Gasoline,26045,Good,Hatchback,Black
+214,Audi,A4,2024,33452,Automatic,Gasoline,13049,Good,Wagon,Red
+215,Volkswagen,Tiguan,2024,30015,CVT,Gasoline,13246,Like New,SUV,Red
+216,Hyundai,Elantra,2012,13438,Automatic,Diesel,170402,Excellent,Sedan,Silver
+217,Honda,HR-V,2018,23841,Automatic,Gasoline,83511,Excellent,Wagon,Green
+218,Toyota,Prius,2016,20015,Automatic,Gasoline,92294,Good,Wagon,Green
+219,Toyota,Prius,2010,12896,Manual,Gasoline,167628,Excellent,Hatchback,Silver
+220,Ford,Edge,2019,26649,Automatic,Gasoline,91045,Excellent,SUV,Red
+221,Chevrolet,Tahoe,2014,12544,CVT,Hybrid,153853,Good,Coupe,Blue
+222,Chevrolet,Equinox,2020,30752,Automatic,Gasoline,66702,Excellent,SUV,Green
+223,Chevrolet,Malibu,2023,27681,CVT,Hybrid,26957,Good,Coupe,Blue
+224,Chevrolet,Tahoe,2013,13843,Automatic,Gasoline,146055,Excellent,Hatchback,Red
+225,Nissan,Altima,2014,21748,Automatic,Gasoline,158383,Fair,Hatchback,Red
+226,BMW,5 Series,2017,32144,Automatic,Gasoline,87115,Good,Wagon,Green
+227,Honda,Accord,2021,28779,Automatic,Hybrid,44198,Fair,Coupe,Gray
+228,Chevrolet,Equinox,2014,17550,Manual,Gasoline,148347,Good,Truck,White
+229,Honda,Pilot,2010,8017,CVT,Gasoline,148190,Good,Coupe,Silver
+230,Toyota,RAV4,2013,18824,CVT,Gasoline,135336,Excellent,Coupe,Red
+231,BMW,X5,2017,39027,Automatic,Gasoline,92853,Excellent,Hatchback,Red
+232,Audi,A3,2010,32794,Automatic,Diesel,212904,Fair,SUV,Black
+233,Mercedes-Benz,C-Class,2013,26929,Automatic,Gasoline,140674,Good,Coupe,Red
+234,Chevrolet,Silverado,2018,20820,Automatic,Gasoline,58953,Salvation,Sedan,Blue
+235,Nissan,Murano,2016,16485,Automatic,Gasoline,91692,Good,Truck,Silver
+236,Nissan,Altima,2015,19194,Automatic,Electric,135264,Good,Sedan,Red
+237,Volkswagen,Arteon,2022,24672,Automatic,Gasoline,38173,Good,Wagon,White
+238,Toyota,Highlander,2020,27557,Automatic,Hybrid,52558,Like New,Wagon,Blue
+239,Honda,Civic,2024,36404,Automatic,Gasoline,15193,Like New,Truck,Black
+240,Volkswagen,Golf,2012,9398,Automatic,Gasoline,146524,Fair,Wagon,Blue
+241,Ford,Edge,2012,18962,Automatic,Gasoline,149708,Excellent,Hatchback,Green
+242,BMW,M3,2016,25012,Automatic,Diesel,127224,Excellent,Hatchback,Gray
+243,Honda,HR-V,2019,18091,Automatic,Diesel,84241,Excellent,SUV,Gray
+244,Mercedes-Benz,CLA,2012,24397,CVT,Gasoline,152147,Good,Truck,Black
+245,Toyota,Corolla,2016,21649,Automatic,Gasoline,125291,Excellent,Sedan,Blue
+246,Chevrolet,Equinox,2023,21647,Automatic,Gasoline,24559,Like New,SUV,Blue
+247,Chevrolet,Suburban,2016,17086,Automatic,Gasoline,100751,Excellent,Truck,Gray
+248,Ford,F-150,2015,16979,Automatic,Gasoline,154290,Good,SUV,Silver
+249,Toyota,Highlander,2015,25061,Manual,Gasoline,119202,Fair,Hatchback,White
+250,Ford,Focus,2021,28403,CVT,Electric,44202,Excellent,Wagon,Red
+251,Chevrolet,Camaro,2022,26754,Automatic,Hybrid,35832,Excellent,Hatchback,White
+252,Chevrolet,Camaro,2012,7334,Automatic,Hybrid,197004,Fair,Wagon,Black
+253,Nissan,Pathfinder,2020,19190,Automatic,Gasoline,70901,Good,Coupe,Black
+254,Honda,Fit,2017,19197,Manual,Hybrid,110316,Good,Sedan,Green
+255,Volkswagen,Arteon,2024,31131,Automatic,Gasoline,10619,Good,SUV,Red
+256,BMW,M3,2020,41058,Automatic,Gasoline,60632,Excellent,Wagon,Blue
+257,Chevrolet,Suburban,2019,25293,Automatic,Gasoline,73792,Good,SUV,Silver
+258,Volkswagen,Atlas,2011,14595,Automatic,Hybrid,132743,Excellent,Truck,Gray
+259,Nissan,Frontier,2017,22348,Automatic,Diesel,80570,Excellent,Sedan,Green
+260,Mercedes-Benz,C-Class,2023,43406,CVT,Hybrid,25884,Good,Hatchback,White
+261,Chevrolet,Equinox,2018,22678,Automatic,Gasoline,77929,Good,Coupe,Black
+262,Mercedes-Benz,E-Class,2017,30586,Automatic,Diesel,92552,Fair,Sedan,Blue
+263,Toyota,Tacoma,2012,13744,Automatic,Gasoline,140478,Good,Wagon,Silver
+264,Chevrolet,Camaro,2016,13263,Automatic,Hybrid,107416,Fair,Wagon,Green
+265,Ford,Focus,2019,30117,Automatic,Gasoline,60713,Excellent,Wagon,White
+266,Chevrolet,Tahoe,2019,28088,Automatic,Gasoline,74789,Good,Wagon,White
+267,Chevrolet,Tahoe,2014,15716,Manual,Gasoline,129736,Like New,Coupe,White
+268,Ford,Escape,2018,25159,Automatic,Gasoline,93081,Fair,Coupe,White
+269,Toyota,Camry,2022,26379,Automatic,Gasoline,27304,Fair,Hatchback,Red
+270,Nissan,Pathfinder,2018,16270,Automatic,Gasoline,92708,Salvation,Hatchback,Green
+271,Mercedes-Benz,CLA,2017,27505,Automatic,Diesel,96533,Excellent,Sedan,Gray
+272,Ford,F-150,2017,29146,Automatic,Hybrid,85966,Excellent,Wagon,Blue
+273,BMW,5 Series,2019,42518,Automatic,Hybrid,62542,Good,Hatchback,Blue
+274,Toyota,Prius,2014,20813,Automatic,Electric,126518,Excellent,Coupe,Black
+275,Volkswagen,Arteon,2012,14403,Automatic,Gasoline,139229,Fair,Coupe,Gray
+276,Toyota,Prius,2014,16553,Manual,Gasoline,135959,Excellent,Hatchback,Red
+277,Ford,Explorer,2017,18764,Manual,Hybrid,105176,Excellent,Coupe,Red
+278,BMW,X3,2023,48118,Automatic,Gasoline,28272,Excellent,Truck,Silver
+279,Nissan,Rogue,2018,16005,Manual,Diesel,98410,Fair,Sedan,Black
+280,BMW,X5,2010,21571,CVT,Gasoline,191704,Excellent,Wagon,White
+281,Hyundai,Tucson,2012,10685,Automatic,Gasoline,187611,Like New,SUV,Black
+282,Honda,CR-V,2021,27314,Automatic,Diesel,53970,Good,SUV,Blue
+283,Ford,Edge,2017,17456,CVT,Hybrid,118213,Good,SUV,Gray
+284,Toyota,Highlander,2011,11051,Automatic,Hybrid,162946,Fair,SUV,Red
+285,Volkswagen,Passat,2011,15083,Automatic,Gasoline,131965,Good,Wagon,Red
+286,Toyota,Highlander,2019,19735,Automatic,Gasoline,54906,Good,Truck,Gray
+287,Ford,Mustang,2013,20893,Automatic,Gasoline,115345,Good,Wagon,Black
+288,Nissan,Murano,2024,26695,Automatic,Gasoline,18184,Excellent,Sedan,Green
+289,Hyundai,Sonata,2017,16086,Automatic,Gasoline,90977,Like New,Sedan,Silver
+290,Audi,A6,2016,29439,Manual,Gasoline,111888,Like New,Sedan,Black
+291,Chevrolet,Silverado,2014,12685,Automatic,Gasoline,112376,Good,Coupe,Gray
+292,Mercedes-Benz,C-Class,2020,36413,Automatic,Gasoline,67731,Good,SUV,Green
+293,Toyota,RAV4,2016,21788,Automatic,Gasoline,135065,Good,SUV,Black
+294,Ford,Escape,2011,16517,Automatic,Gasoline,191719,Good,Sedan,Black
+295,Mercedes-Benz,CLA,2010,26791,Manual,Gasoline,181168,Excellent,Truck,White
+296,Mercedes-Benz,GLC,2021,44872,Automatic,Hybrid,37448,Excellent,Wagon,Blue
+297,BMW,X5,2017,30116,Automatic,Hybrid,78817,Excellent,Sedan,Blue
+298,BMW,3 Series,2013,19474,Automatic,Gasoline,107521,Excellent,SUV,White
+299,Audi,A4,2018,29843,Automatic,Gasoline,80519,Excellent,Sedan,Blue
+300,Honda,Fit,2020,23507,CVT,Electric,57590,Excellent,Coupe,Green
+301,Ford,Explorer,2015,23354,Automatic,Gasoline,122540,Fair,Wagon,Blue
+302,Ford,Explorer,2019,28417,Manual,Hybrid,70600,Excellent,Sedan,Gray
+303,Toyota,Tacoma,2015,20410,Manual,Gasoline,97544,Good,Sedan,White
+304,Chevrolet,Malibu,2016,13151,Automatic,Gasoline,98153,Excellent,Hatchback,Gray
+305,Mercedes-Benz,GLC,2017,37220,Manual,Gasoline,81536,Excellent,Hatchback,Black
+306,Honda,Accord,2013,14487,Automatic,Diesel,140398,Excellent,Truck,White
+307,Toyota,Corolla,2012,8396,Automatic,Gasoline,130280,Good,Hatchback,Silver
+308,Volkswagen,Passat,2017,22466,Manual,Gasoline,86324,Excellent,Wagon,Red
+309,BMW,5 Series,2023,35345,Automatic,Gasoline,26145,Good,Wagon,Silver
+310,Ford,Mustang,2010,13096,Automatic,Gasoline,210566,Excellent,SUV,Black
+311,Toyota,Corolla,2012,23272,CVT,Gasoline,160751,Excellent,Hatchback,Silver
+312,Audi,A4,2010,22711,Automatic,Hybrid,216630,Fair,Truck,Black
+313,Toyota,Highlander,2010,17026,Automatic,Gasoline,195089,Good,SUV,Silver
+314,Ford,Mustang,2014,18815,Automatic,Gasoline,107954,Good,Coupe,Gray
+315,Hyundai,Santa Fe,2010,12865,Automatic,Gasoline,179303,Fair,SUV,Red
+316,Volkswagen,Golf,2022,29507,Manual,Gasoline,45412,Excellent,Hatchback,Blue
+317,Ford,Explorer,2012,16411,Manual,Gasoline,179171,Excellent,Coupe,Blue
+318,Honda,Fit,2013,12933,Automatic,Gasoline,138122,Fair,Wagon,Black
+319,Mercedes-Benz,E-Class,2019,33432,Automatic,Gasoline,60423,Good,Truck,Blue
+320,Toyota,Prius,2015,19584,Manual,Hybrid,105865,Fair,Coupe,Blue
+321,Ford,Escape,2010,9181,Automatic,Gasoline,168432,Excellent,Hatchback,White
+322,Nissan,Rogue,2021,33893,Automatic,Gasoline,42575,Like New,Sedan,Green
+323,Chevrolet,Equinox,2011,18683,Automatic,Gasoline,203417,Excellent,SUV,Red
+324,Audi,Q3,2017,28655,CVT,Gasoline,122551,Fair,SUV,Red
+325,Chevrolet,Malibu,2016,25712,Automatic,Gasoline,131585,Like New,Hatchback,Gray
+326,Hyundai,Kona,2010,17378,Automatic,Gasoline,179106,Like New,SUV,Silver
+327,Mercedes-Benz,E-Class,2015,26133,Automatic,Hybrid,138563,Good,Truck,Gray
+328,Toyota,Corolla,2013,17787,Automatic,Gasoline,141118,Excellent,Wagon,Gray
+329,Volkswagen,Atlas,2017,20052,Automatic,Gasoline,108933,Fair,Wagon,Green
+330,BMW,5 Series,2017,40891,Automatic,Gasoline,74015,Excellent,Truck,White
+331,Hyundai,Sonata,2021,30548,Automatic,Gasoline,39584,Good,Sedan,Gray
+332,Audi,A6,2019,29817,CVT,Gasoline,53287,Good,Hatchback,Red
+333,Audi,A3,2014,27366,Automatic,Gasoline,116966,Fair,SUV,Black
+334,Honda,Pilot,2011,21286,Automatic,Gasoline,207163,Excellent,SUV,Red
+335,Ford,F-150,2017,21506,Automatic,Gasoline,100763,Excellent,Hatchback,Gray
+336,Ford,Escape,2015,20775,Automatic,Gasoline,92963,Fair,Hatchback,Black
+337,Toyota,Prius,2020,21612,Automatic,Hybrid,72997,Fair,SUV,Blue
+338,Toyota,Highlander,2023,27178,Automatic,Hybrid,33028,Like New,Coupe,Silver
+339,Toyota,Prius,2010,14245,Automatic,Gasoline,202858,Excellent,Coupe,White
+340,Audi,A6,2013,24089,Automatic,Gasoline,114124,Excellent,Wagon,White
+341,Nissan,Rogue,2015,15877,Automatic,Gasoline,125905,Excellent,Coupe,Green
+342,Toyota,Prius,2019,23548,Automatic,Gasoline,71465,Good,Sedan,Black
+343,Chevrolet,Silverado,2022,29832,Automatic,Gasoline,37180,Good,Coupe,Black
+344,Toyota,Highlander,2012,17568,Manual,Gasoline,192447,Excellent,SUV,Black
+345,Mercedes-Benz,GLC,2024,34080,Manual,Gasoline,11732,Fair,Wagon,Black
+346,Volkswagen,Passat,2012,21124,Automatic,Hybrid,171858,Good,Wagon,Black
+347,Ford,Mustang,2024,34604,Automatic,Gasoline,20411,Excellent,SUV,Black
+348,Ford,Focus,2016,27876,Automatic,Gasoline,123963,Fair,Sedan,White
+349,Toyota,Camry,2024,34392,Automatic,Gasoline,10119,Excellent,Sedan,Red
+350,Toyota,RAV4,2017,19842,Automatic,Gasoline,86407,Excellent,Truck,Red
+351,Nissan,Altima,2014,19909,Manual,Hybrid,101135,Excellent,SUV,Red
+352,Ford,Mustang,2014,18855,Automatic,Electric,108588,Good,SUV,Red
+353,Toyota,Camry,2013,20500,Automatic,Electric,144701,Good,Coupe,Green
+354,Honda,CR-V,2013,13727,Automatic,Hybrid,178094,Excellent,Hatchback,Red
+355,Volkswagen,Tiguan,2018,23714,Automatic,Gasoline,79095,Excellent,Truck,Red
+356,Ford,Explorer,2014,14439,Manual,Diesel,115983,Fair,Hatchback,Gray
+357,BMW,7 Series,2012,32930,Automatic,Gasoline,169805,Excellent,Sedan,Blue
+358,Mercedes-Benz,S-Class,2023,39667,Automatic,Gasoline,36589,Fair,Wagon,Silver
+359,Chevrolet,Malibu,2023,22994,Automatic,Gasoline,19411,Good,Hatchback,Green
+360,Audi,Q3,2024,44773,Automatic,Gasoline,8372,Excellent,Truck,Silver
+361,Ford,Explorer,2017,24145,CVT,Gasoline,80905,Excellent,SUV,Blue
+362,Toyota,Prius,2016,16748,Automatic,Hybrid,107341,Salvation,Truck,Gray
+363,Volkswagen,Atlas,2012,20534,Automatic,Gasoline,143963,Salvation,Truck,Red
+364,Toyota,Highlander,2014,24556,Automatic,Diesel,118632,Fair,Sedan,White
+365,BMW,7 Series,2016,30925,Automatic,Gasoline,117470,Good,Sedan,Silver
+366,Mercedes-Benz,S-Class,2013,34541,Automatic,Diesel,113663,Like New,Truck,White
+367,Toyota,Tacoma,2019,20029,Automatic,Gasoline,52953,Good,Hatchback,Blue
+368,Ford,Edge,2012,16624,CVT,Gasoline,162535,Like New,Coupe,Black
+369,Ford,Edge,2012,21697,Automatic,Gasoline,123988,Good,Sedan,Gray
+370,Hyundai,Tucson,2022,29229,Automatic,Electric,32924,Good,Sedan,Black
+371,BMW,X5,2017,27309,Automatic,Gasoline,107004,Good,Wagon,Black
+372,Ford,Edge,2011,10361,Automatic,Diesel,202336,Like New,Hatchback,Red
+373,BMW,X3,2011,28484,Automatic,Gasoline,153755,Good,SUV,Silver
+374,Mercedes-Benz,GLC,2012,31058,Automatic,Gasoline,168260,Excellent,Sedan,Red
+375,Toyota,Camry,2023,30858,Manual,Hybrid,23537,Excellent,Wagon,Black
+376,Hyundai,Palisade,2013,13709,Manual,Gasoline,136562,Like New,Truck,Silver
+377,Nissan,Rogue,2016,16807,Automatic,Hybrid,79533,Excellent,Truck,Gray
+378,Audi,Q5,2024,42144,Automatic,Gasoline,9803,Good,Coupe,Red
+379,Hyundai,Santa Fe,2020,21486,CVT,Diesel,56831,Fair,Sedan,Gray
+380,Audi,Q7,2022,40854,Manual,Gasoline,35736,Good,Wagon,Green
+381,Mercedes-Benz,E-Class,2017,26252,Automatic,Gasoline,101172,Excellent,Wagon,Green
+382,BMW,7 Series,2019,29841,Automatic,Gasoline,87464,Good,Coupe,Red
+383,Mercedes-Benz,GLE,2015,25283,Automatic,Gasoline,140771,Excellent,Coupe,Green
+384,Chevrolet,Malibu,2011,11426,Automatic,Electric,154043,Excellent,Wagon,Gray
+385,Honda,Accord,2011,13717,Automatic,Gasoline,194057,Excellent,Coupe,Red
+386,BMW,3 Series,2016,24410,Automatic,Gasoline,126072,Good,Hatchback,Red
+387,Ford,Focus,2018,27630,Automatic,Electric,103974,Excellent,SUV,Green
+388,Honda,Fit,2022,26237,Automatic,Gasoline,50377,Excellent,Wagon,White
+389,Toyota,RAV4,2023,31182,Automatic,Diesel,27677,Excellent,SUV,Green
+390,Mercedes-Benz,CLA,2016,30490,CVT,Gasoline,124245,Excellent,Coupe,Green
+391,Nissan,Murano,2015,26523,Manual,Hybrid,119711,Good,Coupe,Gray
+392,BMW,M3,2012,18385,CVT,Gasoline,180534,Fair,Coupe,Blue
+393,Nissan,Sentra,2021,20306,Automatic,Gasoline,57039,Good,Truck,Blue
+394,Hyundai,Santa Fe,2019,22249,Automatic,Electric,74171,Excellent,Coupe,Blue
+395,Mercedes-Benz,CLA,2018,40964,Automatic,Hybrid,107197,Like New,Wagon,White
+396,Ford,Focus,2021,31069,Automatic,Gasoline,53328,Salvation,SUV,Blue
+397,Chevrolet,Suburban,2015,26519,Automatic,Gasoline,123062,Good,Coupe,Red
+398,Mercedes-Benz,S-Class,2014,34583,Automatic,Gasoline,103708,Excellent,Sedan,White
+399,Ford,Mustang,2014,14147,Automatic,Diesel,110902,Good,Truck,Green
+400,Honda,Fit,2023,23673,Automatic,Gasoline,32797,Fair,Wagon,Silver
+401,Mercedes-Benz,C-Class,2024,40024,Automatic,Electric,20324,Good,Sedan,Red
+402,Ford,Focus,2023,34569,Automatic,Diesel,27077,Fair,Hatchback,Red
+403,BMW,7 Series,2013,28544,CVT,Gasoline,131620,Good,Sedan,Gray
+404,Toyota,RAV4,2018,18567,Automatic,Hybrid,76794,Good,SUV,Black
+405,Toyota,RAV4,2019,32059,Automatic,Hybrid,89824,Fair,Hatchback,Silver
+406,Toyota,Prius,2015,14299,Automatic,Gasoline,108589,Good,Hatchback,Gray
+407,Toyota,Corolla,2024,34921,Automatic,Gasoline,12142,Fair,Hatchback,Gray
+408,Volkswagen,Arteon,2010,19020,Automatic,Gasoline,179811,Like New,SUV,Black
+409,BMW,X3,2016,32594,Automatic,Diesel,103760,Good,Truck,Blue
+410,Nissan,Pathfinder,2017,21897,Automatic,Gasoline,112850,Excellent,Hatchback,Blue
+411,Toyota,Camry,2013,22083,Manual,Gasoline,146402,Like New,Wagon,Green
+412,Honda,Civic,2021,21330,Automatic,Gasoline,57789,Excellent,Truck,Blue
+413,Toyota,Corolla,2024,30360,Automatic,Gasoline,14569,Excellent,Wagon,Black
+414,Chevrolet,Suburban,2021,34067,Automatic,Diesel,50933,Like New,Sedan,Silver
+415,Nissan,Rogue,2019,23704,Automatic,Gasoline,76759,Good,Hatchback,White
+416,Toyota,Highlander,2022,23762,Manual,Gasoline,39942,Like New,Wagon,Red
+417,Honda,Civic,2018,16369,Automatic,Gasoline,65747,Good,Sedan,Silver
+418,Ford,Edge,2024,26453,Automatic,Hybrid,17962,Excellent,Hatchback,Green
+419,Ford,F-150,2012,20716,CVT,Hybrid,130090,Good,Hatchback,Black
+420,Ford,F-150,2014,16230,Automatic,Gasoline,168896,Excellent,Wagon,White
+421,Toyota,Tacoma,2011,13821,Automatic,Gasoline,184103,Good,SUV,Blue
+422,Chevrolet,Equinox,2016,14898,Automatic,Diesel,103118,Good,Truck,Green
+423,Honda,HR-V,2021,27347,Automatic,Gasoline,53460,Good,SUV,Red
+424,BMW,X3,2023,43278,Automatic,Diesel,20530,Good,Sedan,Green
+425,Chevrolet,Silverado,2023,29318,CVT,Gasoline,32238,Good,Hatchback,Blue
+426,Honda,Accord,2015,15443,Automatic,Hybrid,145313,Good,Sedan,Gray
+427,Honda,Civic,2020,32937,Automatic,Gasoline,76359,Good,SUV,Blue
+428,Audi,Q3,2023,46460,Automatic,Hybrid,32913,Fair,SUV,Black
+429,Ford,Mustang,2010,15792,Automatic,Gasoline,180743,Excellent,Wagon,Silver
+430,Toyota,Tacoma,2020,32438,Automatic,Gasoline,60265,Good,Truck,Blue
+431,BMW,3 Series,2018,33705,Manual,Gasoline,79235,Excellent,Coupe,Blue
+432,Toyota,Corolla,2017,19812,Automatic,Gasoline,80478,Excellent,Truck,Blue
+433,Mercedes-Benz,C-Class,2020,36907,Automatic,Gasoline,65325,Good,Hatchback,White
+434,BMW,X5,2010,18710,Automatic,Gasoline,155101,Good,Hatchback,White
+435,Toyota,RAV4,2024,32790,Automatic,Electric,17140,Like New,Wagon,Red
+436,Nissan,Altima,2013,18858,Manual,Gasoline,157223,Good,Hatchback,Green
+437,Mercedes-Benz,S-Class,2020,32149,CVT,Gasoline,58730,Good,Sedan,White
+438,Honda,Accord,2011,13380,Manual,Gasoline,189211,Good,SUV,Gray
+439,Hyundai,Kona,2010,12893,Automatic,Gasoline,145956,Good,Sedan,Green
+440,BMW,X5,2018,32222,Automatic,Gasoline,71915,Fair,Coupe,Silver
+441,Chevrolet,Suburban,2024,22681,Manual,Gasoline,9678,Like New,Sedan,Silver
+442,Chevrolet,Camaro,2016,17185,Automatic,Diesel,88014,Good,Hatchback,Black
+443,Honda,Accord,2021,26311,Automatic,Gasoline,44614,Excellent,Hatchback,Gray
+444,Chevrolet,Camaro,2014,22914,Automatic,Gasoline,119118,Excellent,Hatchback,Blue
+445,Chevrolet,Equinox,2019,29664,Manual,Diesel,90196,Good,Wagon,White
+446,Honda,HR-V,2012,14092,Manual,Diesel,172694,Good,Wagon,Red
+447,Toyota,Highlander,2020,34135,Automatic,Gasoline,46111,Excellent,Truck,White
+448,Honda,Fit,2010,12416,Automatic,Gasoline,216185,Good,SUV,Red
+449,Chevrolet,Silverado,2013,13041,Automatic,Diesel,122690,Good,Hatchback,White
+450,BMW,X3,2013,26177,Automatic,Diesel,116052,Excellent,Hatchback,White
+451,Chevrolet,Suburban,2021,23115,Automatic,Diesel,53669,Good,Truck,Green
+452,Ford,Focus,2013,15493,Automatic,Gasoline,159584,Excellent,Sedan,Blue
+453,Ford,F-150,2022,23418,Automatic,Gasoline,48216,Like New,Hatchback,Gray
+454,Mercedes-Benz,GLC,2022,41809,Automatic,Hybrid,42936,Excellent,Coupe,Red
+455,Nissan,Sentra,2020,32226,Automatic,Electric,59687,Excellent,Truck,White
+456,Ford,Escape,2020,19444,Automatic,Gasoline,65634,Like New,Truck,White
+457,Audi,Q3,2024,43418,Manual,Diesel,9482,Excellent,SUV,Green
+458,Ford,Focus,2015,26485,Automatic,Hybrid,95694,Good,Hatchback,Black
+459,Mercedes-Benz,S-Class,2010,22131,CVT,Gasoline,211427,Like New,Truck,Gray
+460,Ford,Focus,2014,14179,Manual,Gasoline,148065,Good,Hatchback,Black
+461,Chevrolet,Tahoe,2023,30659,Automatic,Gasoline,26412,Excellent,Wagon,White
+462,Honda,Civic,2015,22077,Automatic,Gasoline,109336,Good,Hatchback,Silver
+463,Honda,Pilot,2016,21342,Manual,Gasoline,139983,Excellent,SUV,Blue
+464,Toyota,Tacoma,2020,32467,Automatic,Gasoline,55899,Good,Coupe,White
+465,Toyota,Prius,2012,20726,Automatic,Gasoline,115920,Like New,Wagon,Blue
+466,Chevrolet,Equinox,2022,24329,Automatic,Hybrid,37375,Excellent,SUV,Black
+467,Ford,Explorer,2017,23982,Automatic,Gasoline,93184,Like New,Truck,Silver
+468,Toyota,Camry,2015,13299,Automatic,Gasoline,141685,Salvation,Truck,Silver
+469,Ford,Focus,2017,15023,Automatic,Gasoline,102022,Excellent,SUV,Red
+470,Nissan,Rogue,2016,18149,Automatic,Gasoline,82552,Excellent,Truck,Red
+471,Ford,Edge,2016,21267,CVT,Gasoline,115028,Good,SUV,Green
+472,Toyota,Prius,2013,22726,Automatic,Gasoline,184163,Excellent,Sedan,Gray
+473,Chevrolet,Silverado,2022,28732,Automatic,Gasoline,25745,Good,Coupe,Silver
+474,Ford,Edge,2014,20434,Automatic,Gasoline,107535,Excellent,Truck,Green
+475,Audi,Q7,2017,28435,CVT,Gasoline,110232,Good,Hatchback,Blue
+476,Honda,HR-V,2020,23506,Automatic,Gasoline,71922,Excellent,Hatchback,White
+477,Nissan,Pathfinder,2014,17557,Automatic,Gasoline,119959,Fair,SUV,Silver
+478,Ford,Focus,2010,17348,Automatic,Gasoline,193528,Excellent,SUV,Green
+479,Toyota,RAV4,2013,18412,Automatic,Gasoline,152427,Good,Coupe,White
+480,Ford,Escape,2020,27502,Automatic,Gasoline,76484,Good,Truck,Gray
+481,Ford,F-150,2012,15025,Automatic,Gasoline,134186,Good,Coupe,White
+482,Ford,Mustang,2010,4980,Automatic,Gasoline,154520,Good,Sedan,White
+483,Toyota,Camry,2017,21222,Automatic,Diesel,99640,Excellent,Wagon,Green
+484,Toyota,Camry,2023,24322,Automatic,Gasoline,30074,Excellent,Truck,Green
+485,Honda,Civic,2011,14465,Automatic,Diesel,175841,Good,Sedan,Blue
+486,BMW,5 Series,2017,36377,Automatic,Gasoline,92741,Good,Hatchback,Blue
+487,Toyota,Highlander,2020,21808,Automatic,Hybrid,55613,Excellent,Wagon,Gray
+488,Ford,Mustang,2022,30718,Automatic,Diesel,31424,Excellent,Wagon,Gray
+489,BMW,5 Series,2015,29342,Automatic,Gasoline,106100,Like New,Wagon,Black
+490,Toyota,Prius,2012,19974,Automatic,Gasoline,125488,Good,Wagon,Green
+491,Honda,Pilot,2021,20969,Automatic,Gasoline,59773,Like New,Coupe,Red
+492,Honda,CR-V,2018,17695,Automatic,Gasoline,93551,Good,Hatchback,Green
+493,Chevrolet,Silverado,2018,24693,Automatic,Gasoline,79268,Fair,Hatchback,Gray
+494,Mercedes-Benz,C-Class,2019,40532,Automatic,Gasoline,83392,Like New,Coupe,White
+495,Chevrolet,Tahoe,2022,21408,Automatic,Gasoline,41704,Excellent,Hatchback,Red
+496,Toyota,Corolla,2012,14454,Automatic,Gasoline,131340,Good,Coupe,Red
+497,Chevrolet,Camaro,2021,21558,Automatic,Gasoline,38610,Excellent,SUV,Red
+498,Chevrolet,Silverado,2017,22816,Automatic,Hybrid,115749,Excellent,Wagon,Black
+499,Nissan,Rogue,2018,30297,Automatic,Gasoline,67011,Good,Sedan,Red
+500,Ford,Escape,2013,19639,CVT,Gasoline,171647,Good,Hatchback,Gray
+501,Mercedes-Benz,CLA,2019,38918,Manual,Gasoline,83052,Excellent,SUV,Blue
+502,Honda,CR-V,2020,28452,CVT,Hybrid,71828,Good,Truck,Green
+503,Honda,HR-V,2016,23519,Automatic,Gasoline,102965,Good,Wagon,Silver
+504,Honda,Pilot,2017,14151,Automatic,Electric,115159,Good,Truck,Black
+505,Ford,Mustang,2013,10376,Automatic,Hybrid,175321,Good,Hatchback,White
+506,Toyota,Highlander,2015,15989,Automatic,Hybrid,112714,Excellent,Truck,Black
+507,Chevrolet,Camaro,2024,36049,Automatic,Gasoline,16487,Good,Wagon,Red
+508,Chevrolet,Silverado,2019,17952,Manual,Gasoline,94357,Like New,Truck,Silver
+509,Hyundai,Santa Fe,2016,27835,Automatic,Gasoline,104962,Excellent,Wagon,Gray
+510,Toyota,Tacoma,2010,15231,Automatic,Gasoline,201855,Excellent,Wagon,Red
+511,Volkswagen,Atlas,2022,27949,Automatic,Gasoline,35877,Excellent,SUV,Silver
+512,Toyota,Tacoma,2021,30777,Automatic,Gasoline,48381,Fair,SUV,Green
+513,Toyota,Tacoma,2013,15080,Automatic,Gasoline,176476,Good,SUV,White
+514,Toyota,Highlander,2015,11749,Automatic,Gasoline,105215,Excellent,Truck,Blue
+515,BMW,X3,2012,29632,Automatic,Gasoline,169296,Fair,SUV,Red
+516,Honda,HR-V,2023,25739,CVT,Hybrid,17874,Fair,Truck,Black
+517,Honda,Civic,2014,17833,Automatic,Gasoline,101483,Excellent,Hatchback,Green
+518,Ford,Escape,2019,30031,Automatic,Gasoline,94292,Good,Sedan,Silver
+519,Toyota,RAV4,2013,11247,Automatic,Hybrid,159423,Good,Wagon,Green
+520,Audi,Q5,2023,35029,CVT,Gasoline,28431,Good,Wagon,Black
+521,Hyundai,Santa Fe,2023,28418,CVT,Gasoline,17496,Good,Wagon,Black
+522,Toyota,Tacoma,2014,19095,Automatic,Gasoline,141638,Excellent,Wagon,Silver
+523,Ford,Focus,2014,23545,Manual,Hybrid,123553,Excellent,Hatchback,Silver
+524,Ford,Explorer,2024,33345,Automatic,Diesel,6562,Good,Wagon,Red
+525,Ford,Mustang,2019,25536,Automatic,Gasoline,74272,Excellent,SUV,Blue
+526,Chevrolet,Malibu,2023,28531,CVT,Hybrid,35832,Good,SUV,Red
+527,Audi,A6,2015,34576,Automatic,Gasoline,140447,Like New,Wagon,Black
+528,Mercedes-Benz,GLE,2016,31973,Manual,Gasoline,135049,Excellent,SUV,Black
+529,Mercedes-Benz,S-Class,2019,38536,Automatic,Gasoline,86902,Good,Truck,Black
+530,BMW,X5,2012,32148,Automatic,Diesel,184069,Fair,Coupe,Gray
+531,Toyota,Corolla,2013,19030,Automatic,Electric,108885,Good,SUV,Green
+532,Ford,Mustang,2024,32311,Automatic,Gasoline,19282,Excellent,Coupe,Green
+533,Toyota,Prius,2023,33283,Automatic,Gasoline,24583,Good,Hatchback,Red
+534,Hyundai,Elantra,2018,25104,Automatic,Hybrid,84888,Good,Wagon,Black
+535,Chevrolet,Camaro,2022,26107,Automatic,Gasoline,36356,Fair,Coupe,White
+536,Honda,Fit,2024,36658,Automatic,Gasoline,10565,Excellent,Hatchback,Black
+537,Toyota,Tacoma,2024,23540,Automatic,Gasoline,13995,Good,Wagon,White
+538,Hyundai,Elantra,2014,22479,Automatic,Diesel,164099,Excellent,Sedan,Red
+539,Honda,CR-V,2011,17497,Automatic,Diesel,176953,Like New,Coupe,Blue
+540,Honda,Accord,2024,32320,Automatic,Gasoline,11861,Fair,Sedan,Gray
+541,Ford,Edge,2022,24476,Automatic,Gasoline,40353,Excellent,Hatchback,Green
+542,Ford,Escape,2017,22220,Automatic,Hybrid,77337,Good,Coupe,Gray
+543,Honda,Civic,2019,14991,Automatic,Gasoline,69991,Fair,SUV,Black
+544,Ford,F-150,2020,18742,Manual,Gasoline,46481,Excellent,Sedan,Black
+545,Toyota,Corolla,2012,19083,Automatic,Gasoline,193711,Good,Coupe,Red
+546,Chevrolet,Silverado,2011,13038,Manual,Hybrid,169474,Fair,Sedan,Silver
+547,Honda,Civic,2021,25345,Automatic,Gasoline,55047,Good,Sedan,Blue
+548,Mercedes-Benz,CLA,2018,36806,Manual,Gasoline,110799,Good,Coupe,Blue
+549,Nissan,Rogue,2018,24100,Automatic,Gasoline,80411,Good,Coupe,Gray
+550,Nissan,Frontier,2013,13392,Automatic,Gasoline,105080,Excellent,SUV,Green
+551,BMW,X5,2016,32296,Automatic,Hybrid,110957,Good,Wagon,Silver
+552,Ford,F-150,2014,19642,Automatic,Diesel,148862,Excellent,Coupe,Red
+553,Chevrolet,Silverado,2023,26340,Automatic,Hybrid,23950,Good,Sedan,Red
+554,Toyota,Corolla,2020,26024,Automatic,Diesel,61302,Good,Hatchback,Silver
+555,Chevrolet,Suburban,2015,19231,Automatic,Gasoline,89942,Like New,Truck,Black
+556,Volkswagen,Tiguan,2023,29901,Automatic,Gasoline,29410,Good,SUV,Blue
+557,Toyota,RAV4,2021,31254,Automatic,Gasoline,36484,Excellent,Coupe,Green
+558,Audi,A6,2018,29991,Manual,Diesel,70564,Like New,Coupe,Blue
+559,Toyota,Highlander,2024,24228,Automatic,Hybrid,11130,Good,Truck,White
+560,Mercedes-Benz,C-Class,2023,42459,Automatic,Diesel,18535,Good,Hatchback,Black
+561,Toyota,Camry,2020,17558,Automatic,Hybrid,61299,Fair,Wagon,Silver
+562,Toyota,RAV4,2020,24538,Automatic,Gasoline,51364,Fair,Wagon,Black
+563,Ford,Mustang,2014,13112,Automatic,Gasoline,159301,Excellent,Truck,Silver
+564,Toyota,Prius,2022,30485,Automatic,Gasoline,30821,Excellent,Coupe,Black
+565,Toyota,Highlander,2024,27122,Automatic,Gasoline,8023,Good,Hatchback,Red
+566,Nissan,Murano,2017,19606,Automatic,Diesel,92022,Good,Coupe,Blue
+567,Toyota,Prius,2017,24068,Manual,Gasoline,98550,Good,SUV,White
+568,Hyundai,Kona,2014,17246,Automatic,Hybrid,121984,Fair,Truck,Gray
+569,Chevrolet,Silverado,2017,22234,Automatic,Hybrid,105924,Excellent,Hatchback,White
+570,Chevrolet,Tahoe,2023,29063,Automatic,Gasoline,32750,Good,Hatchback,Gray
+571,Ford,Mustang,2018,25201,Manual,Gasoline,81090,Good,Coupe,Blue
+572,Nissan,Frontier,2021,23101,CVT,Gasoline,63682,Good,Coupe,Black
+573,Chevrolet,Tahoe,2015,12052,Automatic,Gasoline,124356,Good,Wagon,Green
+574,Chevrolet,Tahoe,2015,21518,Manual,Gasoline,140087,Like New,Wagon,Green
+575,Toyota,Corolla,2020,27199,Automatic,Gasoline,66535,Excellent,Wagon,Silver
+576,Ford,Edge,2014,21999,Automatic,Gasoline,126482,Good,SUV,Green
+577,Ford,Explorer,2024,22174,CVT,Gasoline,15529,Excellent,Truck,Green
+578,Toyota,Highlander,2021,23825,Automatic,Diesel,56696,Good,SUV,Red
+579,Toyota,Corolla,2013,14351,CVT,Gasoline,145247,Good,SUV,Black
+580,Toyota,Camry,2012,18192,Automatic,Gasoline,160725,Good,Coupe,Green
+581,Mercedes-Benz,GLE,2019,36772,Automatic,Gasoline,80986,Excellent,SUV,Gray
+582,BMW,M3,2017,38128,Automatic,Gasoline,104291,Excellent,Sedan,Blue
+583,Chevrolet,Equinox,2011,13336,Automatic,Gasoline,201495,Salvation,Truck,Gray
+584,Chevrolet,Camaro,2024,22252,Automatic,Gasoline,13748,Good,Wagon,Red
+585,Chevrolet,Camaro,2014,18996,Automatic,Gasoline,154957,Like New,Hatchback,Red
+586,Ford,Explorer,2022,25725,Automatic,Gasoline,26694,Excellent,Hatchback,Silver
+587,Toyota,Highlander,2019,27800,Manual,Electric,62285,Good,Truck,Gray
+588,Toyota,Tacoma,2011,12053,Manual,Gasoline,146279,Excellent,Sedan,Blue
+589,Toyota,Tacoma,2021,31761,Automatic,Hybrid,51690,Good,Coupe,White
+590,Nissan,Altima,2015,16685,Manual,Hybrid,136305,Good,Coupe,White
+591,BMW,7 Series,2020,34084,Automatic,Hybrid,75691,Excellent,Sedan,Black
+592,Toyota,Highlander,2017,22735,Automatic,Gasoline,105724,Good,SUV,Blue
+593,Hyundai,Elantra,2014,16382,Automatic,Electric,160310,Excellent,Hatchback,Red
+594,Honda,Pilot,2019,23055,Automatic,Hybrid,66659,Good,Coupe,Green
+595,BMW,5 Series,2021,41001,Automatic,Gasoline,45902,Excellent,Hatchback,Black
+596,BMW,3 Series,2010,18232,Automatic,Gasoline,196232,Good,Truck,White
+597,Toyota,Tacoma,2011,19469,Automatic,Electric,199844,Good,Sedan,Black
+598,Hyundai,Sonata,2016,24722,Automatic,Gasoline,91433,Good,Sedan,Red
+599,Honda,CR-V,2022,31244,Automatic,Diesel,51017,Fair,Truck,Green
+600,Toyota,Highlander,2015,18738,Automatic,Gasoline,109595,Like New,Hatchback,Gray
+601,Toyota,Highlander,2011,17879,Automatic,Gasoline,174026,Good,Truck,Black
+602,Toyota,Camry,2019,30482,Automatic,Hybrid,71219,Good,Sedan,Red
+603,Honda,Accord,2021,25910,CVT,Gasoline,49888,Good,Coupe,Gray
+604,Nissan,Altima,2018,16804,Automatic,Hybrid,91335,Good,Truck,Silver
+605,BMW,X5,2010,25243,Automatic,Gasoline,201256,Fair,Wagon,White
+606,Toyota,Camry,2016,19532,Automatic,Hybrid,133691,Excellent,Sedan,Red
+607,Honda,Accord,2012,14271,Automatic,Electric,126483,Excellent,Hatchback,Red
+608,Ford,Focus,2023,21188,Manual,Gasoline,19164,Excellent,Sedan,White
+609,Nissan,Murano,2018,25955,Automatic,Diesel,91205,Excellent,Wagon,White
+610,Chevrolet,Silverado,2017,21001,Automatic,Gasoline,123589,Excellent,Truck,Green
+611,Nissan,Pathfinder,2019,32088,Automatic,Hybrid,79093,Good,Hatchback,White
+612,Toyota,Corolla,2016,26732,CVT,Gasoline,132599,Good,SUV,Silver
+613,Nissan,Sentra,2022,32744,Automatic,Gasoline,31756,Fair,SUV,Red
+614,Honda,Accord,2017,24940,Manual,Gasoline,71849,Good,SUV,Black
+615,Hyundai,Elantra,2010,11880,Manual,Gasoline,152529,Good,Coupe,Red
+616,Toyota,Corolla,2020,27351,Automatic,Gasoline,65195,Good,Hatchback,White
+617,Mercedes-Benz,S-Class,2011,24432,Automatic,Gasoline,169094,Salvation,Sedan,Blue
+618,Honda,Fit,2018,24409,Automatic,Gasoline,104719,Excellent,SUV,Red
+619,Nissan,Pathfinder,2017,18573,Automatic,Gasoline,111618,Excellent,Truck,Silver
+620,BMW,X5,2010,31275,Manual,Gasoline,145239,Good,Sedan,Black
+621,Hyundai,Palisade,2017,22043,Automatic,Gasoline,95225,Excellent,Sedan,Silver
+622,Ford,Mustang,2021,22097,Automatic,Gasoline,46919,Excellent,Coupe,White
+623,Ford,Focus,2017,22288,Automatic,Gasoline,93706,Excellent,Truck,White
+624,Ford,F-150,2021,18519,Automatic,Gasoline,42428,Good,Truck,White
+625,Hyundai,Kona,2012,19479,Manual,Gasoline,174627,Good,SUV,Blue
+626,Honda,Pilot,2014,25642,Automatic,Hybrid,144638,Good,SUV,Blue
+627,Audi,A3,2024,43603,Automatic,Electric,5018,Good,Coupe,Blue
+628,Honda,HR-V,2023,31210,Manual,Gasoline,25054,Good,Coupe,White
+629,Toyota,RAV4,2013,12117,Automatic,Gasoline,161121,Fair,Wagon,Blue
+630,Toyota,Highlander,2017,27785,Automatic,Diesel,96590,Good,Wagon,Black
+631,Hyundai,Elantra,2016,22171,Automatic,Gasoline,83262,Like New,Hatchback,Blue
+632,Nissan,Murano,2011,19504,Automatic,Hybrid,135719,Like New,Sedan,Gray
+633,Honda,Fit,2010,12009,Automatic,Gasoline,162144,Good,SUV,White
+634,Volkswagen,Passat,2018,28303,Automatic,Hybrid,97514,Like New,SUV,Green
+635,Mercedes-Benz,E-Class,2015,27491,Automatic,Gasoline,137394,Excellent,Coupe,Gray
+636,Chevrolet,Silverado,2017,24156,Automatic,Gasoline,106708,Good,Wagon,Green
+637,Volkswagen,Jetta,2013,10280,Automatic,Hybrid,117272,Like New,Sedan,White
+638,Ford,Edge,2012,9800,Automatic,Electric,142279,Good,Wagon,Blue
+639,Audi,Q7,2015,29831,Automatic,Gasoline,138161,Like New,SUV,Green
+640,Audi,Q3,2015,32109,Automatic,Gasoline,123823,Good,Wagon,Blue
+641,Nissan,Pathfinder,2017,24202,Manual,Gasoline,88572,Excellent,Truck,Silver
+642,Mercedes-Benz,C-Class,2012,24167,Automatic,Gasoline,163267,Good,SUV,White
+643,Nissan,Murano,2024,27184,Automatic,Gasoline,7863,Excellent,Truck,Silver
+644,Ford,Focus,2021,32820,Automatic,Gasoline,47017,Salvation,Hatchback,Silver
+645,Toyota,Camry,2016,24700,Automatic,Hybrid,94214,Salvation,Hatchback,Blue
+646,Ford,Edge,2014,14666,Automatic,Gasoline,156615,Like New,Coupe,Silver
+647,BMW,7 Series,2017,30356,Automatic,Gasoline,120458,Good,SUV,Gray
+648,Honda,CR-V,2010,14526,Manual,Gasoline,163528,Fair,SUV,Black
+649,Toyota,Highlander,2020,28670,Automatic,Gasoline,59340,Good,Sedan,Red
+650,Honda,Accord,2021,24753,Automatic,Gasoline,49760,Excellent,Coupe,Green
+651,Chevrolet,Malibu,2021,30710,Manual,Gasoline,51865,Salvation,Coupe,Red
+652,Hyundai,Sonata,2023,29586,Automatic,Gasoline,16763,Fair,Truck,Black
+653,Audi,A3,2022,32771,Automatic,Gasoline,28870,Excellent,Coupe,Red
+654,Chevrolet,Malibu,2013,24713,Automatic,Gasoline,145266,Fair,Hatchback,Silver
+655,Chevrolet,Suburban,2017,16000,CVT,Gasoline,69683,Fair,Coupe,Black
+656,BMW,X3,2016,33790,Automatic,Gasoline,137270,Excellent,Sedan,Blue
+657,Mercedes-Benz,S-Class,2017,30911,CVT,Gasoline,94185,Fair,Truck,Blue
+658,Mercedes-Benz,C-Class,2023,36142,Automatic,Gasoline,23486,Good,Truck,White
+659,Toyota,RAV4,2016,14082,CVT,Gasoline,102144,Good,Wagon,White
+660,Mercedes-Benz,S-Class,2022,41939,Automatic,Hybrid,35106,Excellent,Wagon,Red
+661,BMW,3 Series,2018,30610,Automatic,Gasoline,66450,Fair,Coupe,Silver
+662,Audi,A6,2011,21948,Manual,Hybrid,182344,Good,Wagon,Green
+663,Audi,A3,2021,40191,Automatic,Gasoline,41569,Fair,Sedan,Gray
+664,Honda,HR-V,2015,27248,CVT,Gasoline,130991,Excellent,Truck,Black
+665,Mercedes-Benz,C-Class,2013,33920,Automatic,Gasoline,128264,Excellent,Sedan,Gray
+666,Mercedes-Benz,C-Class,2011,33738,Automatic,Gasoline,188946,Excellent,Wagon,Blue
+667,Chevrolet,Tahoe,2011,8837,Manual,Gasoline,133530,Fair,Hatchback,White
+668,Chevrolet,Malibu,2012,9000,CVT,Hybrid,124043,Like New,Truck,Silver
+669,Toyota,Tacoma,2022,29691,Automatic,Gasoline,37132,Excellent,SUV,Red
+670,Ford,Explorer,2012,7070,CVT,Hybrid,190862,Fair,Coupe,Silver
+671,Mercedes-Benz,E-Class,2017,30484,Automatic,Gasoline,96467,Good,Truck,Black
+672,Honda,Fit,2012,19828,Automatic,Gasoline,162013,Excellent,Coupe,Black
+673,Honda,Pilot,2019,28501,Automatic,Gasoline,74516,Fair,SUV,Green
+674,Toyota,Highlander,2020,20927,Automatic,Gasoline,51565,Good,Wagon,Red
+675,Toyota,Corolla,2016,24306,Manual,Diesel,121199,Excellent,Truck,White
+676,Ford,Focus,2023,23300,Automatic,Diesel,23772,Good,Hatchback,Blue
+677,Ford,Edge,2016,21078,CVT,Electric,135031,Good,SUV,Green
+678,Honda,Civic,2014,17939,Automatic,Hybrid,125085,Good,Sedan,Gray
+679,BMW,5 Series,2016,33376,Automatic,Gasoline,102604,Fair,Wagon,Green
+680,Chevrolet,Tahoe,2022,22891,Automatic,Gasoline,40059,Good,Hatchback,Blue
+681,Toyota,Camry,2016,21510,Automatic,Hybrid,114336,Excellent,SUV,Blue
+682,BMW,X3,2024,43508,Automatic,Gasoline,9731,Fair,Hatchback,Red
+683,Chevrolet,Camaro,2020,25957,Automatic,Gasoline,67037,Excellent,Truck,Gray
+684,Chevrolet,Tahoe,2019,29468,Automatic,Gasoline,68230,Excellent,Truck,Silver
+685,Nissan,Frontier,2010,12440,Automatic,Gasoline,148969,Excellent,Wagon,White
+686,Ford,Edge,2014,10337,Automatic,Hybrid,157069,Excellent,Hatchback,Silver
+687,Toyota,Prius,2023,30446,Automatic,Gasoline,28332,Good,Truck,Gray
+688,Chevrolet,Equinox,2019,32243,Automatic,Gasoline,74639,Good,Wagon,Silver
+689,Toyota,RAV4,2015,14734,Manual,Hybrid,136121,Fair,Hatchback,White
+690,Ford,F-150,2014,15688,Automatic,Diesel,124582,Fair,Sedan,Blue
+691,Ford,F-150,2019,23236,Automatic,Gasoline,73424,Fair,Hatchback,Green
+692,Ford,Edge,2018,19312,Automatic,Gasoline,88349,Good,Hatchback,White
+693,Hyundai,Palisade,2021,21028,CVT,Gasoline,58078,Good,Coupe,Silver
+694,Audi,A3,2022,40122,Automatic,Gasoline,50124,Good,SUV,White
+695,Mercedes-Benz,GLC,2023,38755,Manual,Gasoline,19275,Excellent,Truck,Red
+696,Toyota,Prius,2019,24515,Automatic,Gasoline,62578,Fair,Truck,Gray
+697,Chevrolet,Tahoe,2016,19206,Automatic,Gasoline,92213,Fair,Wagon,Blue
+698,Toyota,Camry,2021,31036,Automatic,Hybrid,32558,Good,Sedan,Gray
+699,Hyundai,Palisade,2020,26763,Automatic,Gasoline,71962,Good,Sedan,Blue
+700,BMW,M3,2022,34223,Automatic,Gasoline,35676,Fair,Truck,Green
+701,Chevrolet,Tahoe,2022,28396,Automatic,Gasoline,29718,Excellent,Coupe,Silver
+702,Hyundai,Elantra,2017,19169,Automatic,Gasoline,114698,Good,Truck,Green
+703,Audi,Q5,2017,38845,CVT,Gasoline,87537,Excellent,Wagon,Red
+704,Nissan,Altima,2021,24381,CVT,Gasoline,55410,Excellent,Wagon,Black
+705,Chevrolet,Malibu,2023,27340,CVT,Hybrid,19566,Excellent,SUV,Silver
+706,Ford,Mustang,2024,32549,Manual,Gasoline,19160,Excellent,Sedan,Green
+707,Nissan,Pathfinder,2017,27799,CVT,Gasoline,100553,Excellent,SUV,Red
+708,Ford,F-150,2015,21418,Automatic,Diesel,153703,Excellent,Sedan,Red
+709,BMW,7 Series,2017,27336,Automatic,Gasoline,96534,Excellent,SUV,White
+710,Chevrolet,Suburban,2022,36211,CVT,Gasoline,47833,Good,Wagon,White
+711,Ford,Edge,2019,30216,Automatic,Gasoline,66102,Excellent,Coupe,Green
+712,Hyundai,Sonata,2010,17962,CVT,Gasoline,219542,Salvation,SUV,Silver
+713,Mercedes-Benz,E-Class,2010,26840,Automatic,Gasoline,192531,Excellent,Hatchback,Black
+714,Toyota,Tacoma,2016,26037,Automatic,Gasoline,133758,Excellent,Truck,Silver
+715,Mercedes-Benz,GLE,2012,22252,Automatic,Electric,179426,Good,Coupe,White
+716,Honda,Accord,2010,10912,Automatic,Gasoline,169055,Good,Wagon,Gray
+717,Toyota,Highlander,2012,20106,Automatic,Gasoline,165581,Good,Hatchback,Silver
+718,Toyota,Tacoma,2010,14027,CVT,Hybrid,166560,Like New,Hatchback,Red
+719,Mercedes-Benz,C-Class,2010,26189,Automatic,Gasoline,212381,Excellent,Hatchback,Black
+720,Chevrolet,Equinox,2012,15348,Automatic,Gasoline,155783,Good,SUV,Silver
+721,Toyota,Camry,2012,20988,Automatic,Gasoline,154165,Like New,Truck,Blue
+722,Nissan,Rogue,2018,23175,Automatic,Diesel,72626,Like New,Hatchback,Green
+723,Audi,Q3,2022,31667,Automatic,Gasoline,29076,Good,SUV,Red
+724,Honda,Civic,2024,22414,Automatic,Electric,13457,Good,Sedan,Green
+725,Mercedes-Benz,E-Class,2011,19870,Automatic,Gasoline,149006,Good,Truck,Blue
+726,Hyundai,Kona,2013,7887,Automatic,Gasoline,167272,Excellent,Coupe,Red
+727,Toyota,RAV4,2010,17834,Automatic,Gasoline,215623,Like New,Truck,White
+728,Toyota,Highlander,2023,28109,Automatic,Gasoline,27706,Like New,Wagon,Blue
+729,Audi,Q5,2021,30656,Automatic,Hybrid,38721,Fair,Wagon,Black
+730,Chevrolet,Camaro,2016,21976,Manual,Gasoline,97726,Excellent,Sedan,Green
+731,Ford,Escape,2022,24772,Automatic,Electric,50232,Excellent,Coupe,Red
+732,Nissan,Rogue,2024,23008,Automatic,Gasoline,17844,Excellent,Coupe,Gray
+733,Honda,Fit,2019,17813,Automatic,Gasoline,75799,Good,Sedan,Blue
+734,Honda,Pilot,2020,29774,Automatic,Gasoline,79797,Good,Hatchback,Black
+735,Ford,Escape,2011,11209,Automatic,Gasoline,140131,Excellent,Coupe,Silver
+736,Chevrolet,Camaro,2011,18242,Automatic,Gasoline,141700,Good,Hatchback,Green
+737,Ford,Explorer,2019,31724,Automatic,Gasoline,74010,Excellent,SUV,Green
+738,Honda,Civic,2016,18905,Automatic,Gasoline,131153,Good,Truck,Silver
+739,Volkswagen,Passat,2013,12365,Automatic,Hybrid,166624,Good,Sedan,Gray
+740,Toyota,Corolla,2020,24631,CVT,Hybrid,74972,Good,Coupe,Silver
+741,BMW,M3,2015,35948,Automatic,Gasoline,111225,Excellent,Sedan,Red
+742,Volkswagen,Jetta,2013,19286,Manual,Gasoline,127913,Fair,Hatchback,White
+743,Toyota,Highlander,2012,14430,Automatic,Gasoline,116222,Good,Coupe,Gray
+744,Toyota,Highlander,2019,21111,Automatic,Hybrid,72819,Excellent,Sedan,Red
+745,Nissan,Pathfinder,2016,24216,CVT,Diesel,128422,Excellent,Coupe,Gray
+746,Chevrolet,Suburban,2019,19603,Automatic,Gasoline,85100,Excellent,Sedan,Silver
+747,Hyundai,Santa Fe,2024,23838,Automatic,Hybrid,18255,Good,Sedan,White
+748,Ford,Mustang,2017,21762,CVT,Gasoline,90525,Excellent,Hatchback,Green
+749,Nissan,Murano,2017,21132,Automatic,Gasoline,126031,Like New,Wagon,Red
+750,Honda,Pilot,2022,32261,Automatic,Gasoline,31718,Good,SUV,White
+751,Toyota,Highlander,2011,14882,Automatic,Gasoline,159663,Excellent,Truck,Silver
+752,BMW,5 Series,2023,31999,Automatic,Gasoline,19575,Excellent,SUV,Gray
+753,Ford,Explorer,2022,33095,Automatic,Hybrid,35763,Excellent,Wagon,Green
+754,Chevrolet,Suburban,2011,16960,Automatic,Gasoline,185798,Good,Sedan,Green
+755,Chevrolet,Camaro,2011,19152,Automatic,Hybrid,137903,Excellent,Coupe,Green
+756,Chevrolet,Suburban,2023,26314,Automatic,Gasoline,29559,Fair,Coupe,Gray
+757,Mercedes-Benz,C-Class,2013,25312,Automatic,Gasoline,139462,Good,Coupe,Silver
+758,BMW,5 Series,2012,24971,Automatic,Hybrid,138557,Good,Coupe,Green
+759,Chevrolet,Suburban,2015,22008,Manual,Gasoline,109538,Like New,Sedan,Silver
+760,Ford,Mustang,2016,22140,Automatic,Hybrid,89543,Good,Wagon,Red
+761,Nissan,Frontier,2014,16952,Automatic,Gasoline,166828,Good,Truck,Black
+762,Nissan,Frontier,2019,30070,Manual,Gasoline,76164,Good,Hatchback,Red
+763,Honda,CR-V,2024,35191,Automatic,Gasoline,10556,Excellent,Wagon,Red
+764,Hyundai,Kona,2018,19776,Automatic,Gasoline,71703,Fair,SUV,Black
+765,Toyota,Tacoma,2019,21635,Automatic,Gasoline,75837,Good,Truck,Silver
+766,BMW,X3,2011,33204,Automatic,Gasoline,197691,Excellent,Truck,White
+767,Nissan,Frontier,2019,29268,Automatic,Gasoline,82099,Fair,Wagon,Blue
+768,BMW,7 Series,2016,35026,Automatic,Gasoline,95976,Fair,Truck,Gray
+769,Toyota,Prius,2016,14167,Automatic,Gasoline,83813,Excellent,Sedan,Silver
+770,BMW,X5,2019,34723,Automatic,Gasoline,72724,Salvation,Wagon,Gray
+771,Mercedes-Benz,GLE,2023,36630,Automatic,Gasoline,23368,Like New,Hatchback,Green
+772,Chevrolet,Suburban,2013,16625,Automatic,Gasoline,118434,Like New,Sedan,Blue
+773,Hyundai,Elantra,2011,16540,Automatic,Gasoline,154867,Excellent,Truck,Silver
+774,Ford,F-150,2022,24558,Manual,Gasoline,43400,Like New,SUV,White
+775,Nissan,Pathfinder,2010,16968,Automatic,Hybrid,173946,Good,Hatchback,Gray
+776,Hyundai,Santa Fe,2017,14614,Manual,Gasoline,84342,Good,SUV,Green
+777,Mercedes-Benz,C-Class,2022,37389,Automatic,Gasoline,34199,Good,Coupe,Red
+778,Ford,F-150,2023,34830,Manual,Gasoline,22777,Excellent,Wagon,Black
+779,BMW,3 Series,2013,28613,Manual,Gasoline,117538,Good,Sedan,Black
+780,BMW,M3,2012,26749,Manual,Hybrid,137923,Good,Sedan,Green
+781,Chevrolet,Equinox,2016,12113,Automatic,Gasoline,112615,Excellent,Hatchback,Silver
+782,Honda,Civic,2011,18263,Automatic,Gasoline,144953,Excellent,Truck,Gray
+783,BMW,3 Series,2019,31109,Automatic,Gasoline,62018,Excellent,Coupe,Silver
+784,Ford,F-150,2010,11266,Automatic,Gasoline,212951,Good,Sedan,Silver
+785,Toyota,Highlander,2018,16338,Automatic,Gasoline,86235,Like New,Truck,Blue
+786,Volkswagen,Arteon,2011,20683,Automatic,Diesel,195291,Good,Sedan,Green
+787,BMW,5 Series,2022,39350,Automatic,Diesel,38036,Good,Hatchback,Gray
+788,Toyota,Highlander,2023,32930,CVT,Gasoline,15750,Excellent,Truck,Green
+789,BMW,X3,2023,43445,Automatic,Gasoline,25969,Good,Truck,Black
+790,Honda,Civic,2023,35335,Automatic,Hybrid,26694,Good,Truck,Red
+791,Audi,Q3,2014,25565,Automatic,Electric,127004,Good,Hatchback,Silver
+792,Toyota,Prius,2012,21358,Automatic,Hybrid,162809,Good,Wagon,Red
+793,Chevrolet,Tahoe,2018,30835,Automatic,Gasoline,105889,Fair,Wagon,Gray
+794,BMW,X3,2023,46074,Manual,Gasoline,28714,Fair,Sedan,Black
+795,Honda,Accord,2017,20953,CVT,Gasoline,80721,Excellent,Sedan,Green
+796,BMW,X3,2022,36427,Automatic,Gasoline,40082,Good,Hatchback,White
+797,Toyota,Prius,2016,19836,Automatic,Gasoline,126155,Good,Hatchback,Red
+798,BMW,M3,2012,31501,Automatic,Gasoline,137872,Good,SUV,Blue
+799,Mercedes-Benz,GLC,2013,34764,Automatic,Gasoline,178355,Like New,Sedan,Gray
+800,BMW,7 Series,2010,24440,Automatic,Gasoline,184484,Good,Hatchback,Green
+801,Toyota,Prius,2013,16769,Automatic,Gasoline,153015,Excellent,Sedan,Blue
+802,Nissan,Murano,2013,10348,Automatic,Gasoline,130789,Good,Sedan,Black
+803,Honda,Civic,2019,30832,Automatic,Gasoline,65355,Excellent,Sedan,Green
+804,Ford,Mustang,2011,15436,Automatic,Gasoline,183806,Excellent,Sedan,Black
+805,Honda,HR-V,2011,10171,Automatic,Gasoline,172577,Excellent,Wagon,Black
+806,Chevrolet,Equinox,2023,28057,Automatic,Diesel,24683,Good,Wagon,Blue
+807,Toyota,Highlander,2017,24054,CVT,Gasoline,109235,Fair,Coupe,Blue
+808,Ford,Mustang,2011,9560,Manual,Gasoline,200936,Excellent,Hatchback,White
+809,BMW,X3,2015,30439,Automatic,Gasoline,154532,Fair,Sedan,White
+810,Ford,Escape,2018,20768,Automatic,Diesel,100333,Excellent,Truck,Silver
+811,Honda,Civic,2018,24571,Automatic,Gasoline,99261,Fair,Sedan,Gray
+812,Honda,Accord,2020,32217,Automatic,Gasoline,48395,Good,Coupe,Blue
+813,Mercedes-Benz,S-Class,2019,38145,Automatic,Gasoline,70583,Like New,Sedan,Gray
+814,Ford,F-150,2020,30530,Automatic,Gasoline,57073,Good,Truck,Green
+815,Mercedes-Benz,E-Class,2016,39225,Automatic,Gasoline,82439,Good,SUV,Silver
+816,Honda,HR-V,2019,17571,Automatic,Gasoline,53720,Like New,Wagon,White
+817,Ford,Focus,2013,14349,CVT,Hybrid,107996,Excellent,Wagon,White
+818,Honda,Civic,2015,18276,Automatic,Gasoline,126304,Excellent,Hatchback,Green
+819,Volkswagen,Atlas,2024,27206,Automatic,Diesel,7325,Excellent,Truck,Silver
+820,Chevrolet,Suburban,2013,24724,Automatic,Gasoline,173174,Fair,Truck,White
+821,Toyota,RAV4,2023,37516,Automatic,Hybrid,30895,Excellent,Coupe,Green
+822,BMW,3 Series,2012,24592,Automatic,Gasoline,192998,Good,Truck,Red
+823,Honda,HR-V,2017,21109,CVT,Gasoline,94106,Good,Sedan,White
+824,Ford,Mustang,2017,21966,Automatic,Gasoline,86333,Excellent,Truck,Silver
+825,Chevrolet,Malibu,2022,27546,Automatic,Gasoline,41423,Good,Hatchback,Silver
+826,Honda,Pilot,2016,18871,Automatic,Gasoline,117869,Good,Truck,Red
+827,Toyota,Camry,2014,18091,Automatic,Gasoline,153803,Excellent,Sedan,Black
+828,Honda,Fit,2013,13087,Automatic,Gasoline,174754,Fair,Truck,White
+829,Mercedes-Benz,E-Class,2023,35429,Manual,Gasoline,25754,Fair,Coupe,Gray
+830,Nissan,Murano,2010,15850,Manual,Electric,205455,Excellent,Wagon,Red
+831,Ford,Mustang,2018,26669,Manual,Gasoline,102101,Excellent,Sedan,Silver
+832,Nissan,Pathfinder,2022,23412,Automatic,Hybrid,40151,Excellent,SUV,Silver
+833,Audi,A4,2017,31062,Manual,Gasoline,88643,Fair,Wagon,Blue
+834,Ford,Focus,2010,17218,CVT,Gasoline,136224,Excellent,Wagon,Green
+835,BMW,M3,2019,33845,Automatic,Gasoline,65432,Good,Truck,Blue
+836,Volkswagen,Arteon,2024,24832,Automatic,Gasoline,7113,Fair,Hatchback,Gray
+837,Toyota,Corolla,2011,11689,Automatic,Gasoline,148422,Good,Truck,Blue
+838,Toyota,RAV4,2023,27642,Automatic,Gasoline,17386,Good,Coupe,Green
+839,Ford,Mustang,2014,23660,Automatic,Gasoline,168834,Like New,Hatchback,White
+840,Chevrolet,Suburban,2017,18448,Manual,Gasoline,69817,Good,SUV,Blue
+841,Ford,Focus,2024,29318,Automatic,Gasoline,17229,Good,Coupe,Silver
+842,Mercedes-Benz,CLA,2022,38371,Automatic,Gasoline,39932,Good,Coupe,Gray
+843,Honda,HR-V,2012,8307,Automatic,Hybrid,165345,Like New,Truck,Red
+844,Chevrolet,Suburban,2024,36690,CVT,Hybrid,21786,Good,Hatchback,Black
+845,Volkswagen,Jetta,2022,30803,Automatic,Gasoline,36729,Good,Coupe,Black
+846,Toyota,Prius,2020,23461,Automatic,Gasoline,66296,Excellent,Truck,Black
+847,Mercedes-Benz,E-Class,2015,30139,Automatic,Gasoline,123907,Good,Coupe,White
+848,Honda,CR-V,2023,26073,Automatic,Gasoline,23238,Good,Coupe,White
+849,Toyota,Camry,2020,21276,Automatic,Gasoline,63911,Like New,Hatchback,White
+850,Honda,Civic,2023,30819,Automatic,Gasoline,35591,Good,Coupe,Black
+851,Chevrolet,Silverado,2022,32877,Automatic,Gasoline,31047,Excellent,Coupe,Black
+852,Volkswagen,Tiguan,2023,34166,Manual,Gasoline,24995,Fair,Wagon,White
+853,Mercedes-Benz,C-Class,2016,24766,Automatic,Gasoline,105397,Excellent,Hatchback,Gray
+854,Audi,A4,2013,23583,Automatic,Gasoline,143350,Excellent,Coupe,White
+855,Honda,Civic,2020,29367,Manual,Gasoline,71600,Good,Hatchback,Gray
+856,Volkswagen,Jetta,2021,30772,Automatic,Gasoline,52457,Excellent,Wagon,Red
+857,Honda,HR-V,2012,11552,Automatic,Hybrid,192131,Fair,Coupe,Black
+858,Ford,Focus,2024,28362,Automatic,Gasoline,15504,Good,Sedan,White
+859,Toyota,Camry,2014,23953,Automatic,Gasoline,145016,Excellent,Coupe,Silver
+860,Ford,Escape,2013,16190,Automatic,Electric,184090,Like New,SUV,Silver
+861,Ford,F-150,2018,25819,Manual,Gasoline,86838,Excellent,SUV,White
+862,Chevrolet,Suburban,2013,20740,Automatic,Gasoline,149043,Excellent,Coupe,Black
+863,Audi,A4,2020,34186,Automatic,Gasoline,46643,Fair,SUV,White
+864,Chevrolet,Tahoe,2021,23477,Automatic,Gasoline,48199,Good,Truck,Silver
+865,Chevrolet,Suburban,2013,23173,Automatic,Electric,151602,Excellent,Coupe,Gray
+866,Honda,Fit,2021,31107,Automatic,Gasoline,44001,Fair,Truck,Blue
+867,Chevrolet,Camaro,2021,24976,Automatic,Gasoline,51060,Good,Coupe,Black
+868,Ford,Edge,2017,18332,Automatic,Gasoline,79492,Good,Coupe,Gray
+869,Audi,Q7,2021,36436,Automatic,Gasoline,52083,Good,Sedan,Black
+870,Honda,Fit,2012,22309,Manual,Diesel,162644,Excellent,Wagon,Gray
+871,BMW,X3,2021,43392,Automatic,Diesel,50571,Excellent,Truck,Red
+872,Mercedes-Benz,C-Class,2021,36270,Automatic,Hybrid,58298,Excellent,Hatchback,Red
+873,Nissan,Altima,2011,20001,Automatic,Gasoline,208903,Like New,Hatchback,White
+874,Hyundai,Sonata,2023,25247,Automatic,Gasoline,29285,Like New,Hatchback,Silver
+875,Mercedes-Benz,CLA,2023,36662,Automatic,Diesel,32803,Excellent,Wagon,White
+876,Audi,Q7,2021,30782,Automatic,Gasoline,44572,Good,Hatchback,Gray
+877,BMW,7 Series,2016,28693,Automatic,Diesel,106674,Excellent,Sedan,Gray
+878,Chevrolet,Malibu,2012,10720,CVT,Gasoline,143886,Like New,Coupe,Red
+879,Audi,A4,2023,35547,Automatic,Gasoline,19206,Excellent,Hatchback,White
+880,Honda,HR-V,2022,22730,Automatic,Diesel,27859,Good,Sedan,Black
+881,Ford,F-150,2016,19781,Automatic,Gasoline,103554,Good,Truck,Red
+882,Hyundai,Tucson,2023,28556,Automatic,Gasoline,30424,Excellent,Truck,Green
+883,Toyota,Highlander,2023,33191,Manual,Gasoline,15694,Excellent,Wagon,Green
+884,Nissan,Rogue,2017,21944,CVT,Gasoline,104889,Like New,Truck,Black
+885,BMW,3 Series,2022,42841,Automatic,Gasoline,36743,Good,Sedan,Silver
+886,Honda,Pilot,2020,32208,Automatic,Gasoline,60574,Fair,Hatchback,Green
+887,Hyundai,Kona,2010,16111,CVT,Hybrid,145632,Salvation,Coupe,White
+888,Hyundai,Elantra,2017,16917,CVT,Gasoline,86411,Good,Sedan,Gray
+889,Volkswagen,Jetta,2012,15009,Automatic,Diesel,145458,Like New,Wagon,Black
+890,BMW,M3,2020,29451,CVT,Hybrid,73787,Fair,Hatchback,Black
+891,BMW,X5,2024,44387,Manual,Gasoline,22122,Fair,SUV,Silver
+892,Toyota,Camry,2011,15044,Automatic,Diesel,191996,Excellent,Truck,Gray
+893,Chevrolet,Silverado,2014,22961,CVT,Hybrid,145367,Excellent,Truck,Green
+894,BMW,5 Series,2018,34351,Automatic,Gasoline,72479,Good,SUV,Green
+895,Audi,A6,2017,27082,Automatic,Gasoline,111059,Fair,Wagon,Black
+896,Chevrolet,Equinox,2018,22069,Manual,Gasoline,107912,Good,Wagon,Gray
+897,Toyota,RAV4,2012,23569,CVT,Diesel,147434,Fair,Coupe,Red
+898,Honda,HR-V,2024,24849,Automatic,Gasoline,14915,Salvation,Coupe,Gray
+899,Toyota,Prius,2014,22896,Automatic,Hybrid,123064,Excellent,Hatchback,Green
+900,Nissan,Murano,2014,20777,Automatic,Gasoline,118196,Excellent,SUV,White
+901,Ford,Edge,2013,18460,Manual,Gasoline,183795,Fair,Coupe,Gray
+902,BMW,5 Series,2024,37912,Automatic,Gasoline,14675,Salvation,Wagon,Silver
+903,Chevrolet,Malibu,2020,21705,Automatic,Gasoline,43336,Good,SUV,Red
+904,Mercedes-Benz,CLA,2022,46408,Automatic,Gasoline,44048,Good,Sedan,Black
+905,Toyota,Camry,2017,16910,Automatic,Gasoline,78118,Excellent,Wagon,Black
+906,Nissan,Sentra,2016,22795,Automatic,Gasoline,134909,Excellent,Wagon,Green
+907,Nissan,Sentra,2016,22490,Automatic,Diesel,125783,Excellent,Hatchback,Blue
+908,Mercedes-Benz,CLA,2011,30291,Automatic,Hybrid,137414,Excellent,Coupe,Green
+909,Ford,F-150,2012,10067,Automatic,Gasoline,184139,Fair,Sedan,Black
+910,Chevrolet,Equinox,2018,24126,Automatic,Gasoline,95738,Like New,Truck,Red
+911,Chevrolet,Malibu,2019,27171,CVT,Hybrid,72941,Good,Hatchback,White
+912,BMW,7 Series,2023,39118,Manual,Gasoline,16681,Excellent,SUV,Blue
+913,Chevrolet,Camaro,2015,14833,Automatic,Gasoline,154915,Excellent,Wagon,White
+914,Honda,Civic,2014,21694,Automatic,Gasoline,115683,Excellent,Wagon,Red
+915,BMW,7 Series,2015,32152,Automatic,Gasoline,146439,Excellent,Coupe,Gray
+916,Toyota,Tacoma,2013,16390,Automatic,Gasoline,123947,Excellent,Wagon,Black
+917,Honda,CR-V,2022,23559,Automatic,Gasoline,32030,Like New,Coupe,Black
+918,Nissan,Altima,2012,19020,Automatic,Hybrid,154290,Good,Wagon,Blue
+919,Hyundai,Kona,2014,10447,Manual,Gasoline,101109,Excellent,Wagon,Red
+920,Volkswagen,Golf,2018,27649,Automatic,Gasoline,88898,Good,Wagon,White
+921,BMW,5 Series,2016,34600,Automatic,Hybrid,96576,Excellent,SUV,Red
+922,BMW,7 Series,2017,34092,Automatic,Gasoline,97870,Good,Wagon,Green
+923,Ford,Edge,2023,28895,Automatic,Gasoline,32285,Excellent,Wagon,White
+924,Audi,A6,2019,31715,Manual,Hybrid,72125,Excellent,Coupe,Red
+925,Chevrolet,Suburban,2012,15627,Manual,Electric,178059,Good,Coupe,Black
+926,BMW,7 Series,2010,28030,CVT,Gasoline,207937,Good,Hatchback,Red
+927,BMW,M3,2017,38071,Automatic,Gasoline,104991,Excellent,Truck,Black
+928,Honda,Pilot,2012,10198,Automatic,Gasoline,159109,Fair,Sedan,Silver
+929,Ford,Explorer,2014,12091,CVT,Gasoline,160189,Like New,Wagon,Blue
+930,Nissan,Altima,2024,32128,Automatic,Gasoline,8941,Excellent,Truck,Black
+931,Toyota,Prius,2012,13915,Automatic,Gasoline,114596,Good,SUV,Gray
+932,Toyota,Highlander,2010,20332,Automatic,Gasoline,214783,Excellent,Coupe,White
+933,Chevrolet,Equinox,2011,17360,Automatic,Gasoline,174037,Excellent,Wagon,White
+934,Toyota,RAV4,2010,14369,Automatic,Gasoline,193923,Good,Coupe,Red
+935,Volkswagen,Jetta,2016,21207,Automatic,Diesel,123700,Fair,Coupe,Blue
+936,Mercedes-Benz,CLA,2023,34568,Automatic,Diesel,16563,Excellent,Sedan,Green
+937,BMW,3 Series,2020,36237,Automatic,Gasoline,76537,Excellent,Sedan,Green
+938,Honda,Fit,2012,10273,Manual,Diesel,143165,Salvation,SUV,Red
+939,Nissan,Sentra,2017,28043,Automatic,Gasoline,123094,Fair,Wagon,Red
+940,Toyota,Camry,2012,8741,Automatic,Hybrid,144307,Good,Sedan,Green
+941,Toyota,Highlander,2018,27561,Automatic,Gasoline,98107,Excellent,Coupe,Red
+942,Toyota,Camry,2014,15418,Automatic,Gasoline,137283,Excellent,Sedan,Black
+943,Toyota,Prius,2015,17938,Automatic,Hybrid,128260,Excellent,Coupe,Silver
+944,Ford,F-150,2011,21278,Automatic,Hybrid,196903,Good,Truck,Red
+945,Nissan,Frontier,2019,20659,Automatic,Gasoline,85477,Like New,SUV,Red
+946,Mercedes-Benz,C-Class,2010,25915,CVT,Diesel,156560,Excellent,Hatchback,Blue
+947,Honda,HR-V,2017,24487,Automatic,Gasoline,116749,Good,Truck,Green
+948,Hyundai,Kona,2015,19349,Automatic,Gasoline,148342,Good,Hatchback,Blue
+949,Nissan,Sentra,2019,28969,Automatic,Gasoline,60081,Fair,Wagon,White
+950,Mercedes-Benz,GLE,2017,32451,Automatic,Gasoline,74623,Good,Coupe,Gray
+951,BMW,5 Series,2012,24992,Automatic,Gasoline,176460,Like New,Hatchback,Gray
+952,Chevrolet,Suburban,2018,21451,Automatic,Diesel,75483,Excellent,Sedan,Blue
+953,Ford,F-150,2020,24337,Automatic,Hybrid,49875,Salvation,SUV,Blue
+954,Toyota,Prius,2015,16090,Manual,Hybrid,112943,Excellent,SUV,Gray
+955,Hyundai,Tucson,2015,24786,CVT,Gasoline,91674,Excellent,Sedan,Blue
+956,BMW,M3,2011,28783,Automatic,Gasoline,160772,Fair,SUV,Silver
+957,Ford,Focus,2020,20311,Automatic,Diesel,62066,Excellent,Coupe,Black
+958,Chevrolet,Tahoe,2012,13052,Automatic,Hybrid,180694,Excellent,Truck,White
+959,Hyundai,Santa Fe,2020,19098,Automatic,Gasoline,45191,Like New,Coupe,Black
+960,Mercedes-Benz,E-Class,2021,42988,Automatic,Gasoline,40455,Excellent,Wagon,Black
+961,Toyota,Camry,2014,22911,Automatic,Diesel,148253,Fair,Hatchback,Red
+962,Nissan,Murano,2011,10824,Automatic,Gasoline,188536,Excellent,Truck,Gray
+963,Toyota,Camry,2018,26689,Automatic,Gasoline,91187,Good,Sedan,Blue
+964,Hyundai,Santa Fe,2012,15066,Automatic,Gasoline,118261,Good,SUV,Red
+965,Honda,HR-V,2023,31737,CVT,Gasoline,17582,Excellent,Sedan,Blue
+966,Ford,Explorer,2024,25816,Automatic,Gasoline,11427,Good,Wagon,Gray
+967,Toyota,Prius,2020,28766,Automatic,Hybrid,57462,Good,Truck,Silver
+968,Nissan,Murano,2022,35699,Automatic,Diesel,24486,Excellent,Coupe,Red
+969,Nissan,Pathfinder,2023,25903,Automatic,Electric,29469,Excellent,SUV,White
+970,Mercedes-Benz,GLC,2015,28896,Automatic,Electric,135781,Good,SUV,Green
+971,Audi,A6,2016,32771,Automatic,Gasoline,121474,Fair,Coupe,Black
+972,Chevrolet,Tahoe,2018,26590,Automatic,Gasoline,110026,Excellent,SUV,Green
+973,Toyota,Tacoma,2017,18110,Manual,Gasoline,76627,Fair,SUV,Silver
+974,Honda,Fit,2024,26324,Automatic,Gasoline,9405,Like New,Wagon,White
+975,Honda,Civic,2021,24810,Automatic,Gasoline,44263,Good,Hatchback,Green
+976,Toyota,Corolla,2015,15137,Manual,Gasoline,106332,Good,SUV,Gray
+977,Mercedes-Benz,CLA,2018,34850,Manual,Gasoline,93435,Good,Truck,Black
+978,Toyota,Prius,2010,16357,Automatic,Gasoline,159560,Good,Coupe,Blue
+979,Mercedes-Benz,GLC,2024,40336,CVT,Gasoline,18129,Excellent,Sedan,Blue
+980,Honda,Accord,2021,27025,Automatic,Gasoline,52201,Good,Hatchback,Blue
+981,Nissan,Murano,2017,18621,Automatic,Gasoline,120284,Excellent,Truck,Red
+982,Honda,CR-V,2011,10619,Automatic,Diesel,172476,Excellent,SUV,Blue
+983,Toyota,Corolla,2019,32105,Automatic,Gasoline,67267,Excellent,Truck,Black
+984,Volkswagen,Golf,2010,17329,Automatic,Gasoline,190193,Excellent,Truck,Green
+985,Ford,Escape,2018,22156,Automatic,Gasoline,92289,Good,Truck,Gray
+986,Hyundai,Kona,2011,19316,Automatic,Gasoline,138608,Good,Sedan,Silver
+987,Toyota,Prius,2017,27010,Automatic,Gasoline,84883,Good,SUV,Green
+988,Mercedes-Benz,S-Class,2018,35286,Manual,Gasoline,100595,Excellent,Truck,Blue
+989,Hyundai,Santa Fe,2010,9742,CVT,Gasoline,165650,Good,Coupe,Black
+990,Nissan,Sentra,2022,29829,Automatic,Gasoline,32316,Like New,SUV,Black
+991,Ford,Explorer,2015,15435,Automatic,Diesel,111313,Good,Truck,Green
+992,Hyundai,Palisade,2024,26681,Manual,Gasoline,16658,Good,Hatchback,Red
+993,Toyota,RAV4,2018,22153,Automatic,Gasoline,73958,Like New,Wagon,Black
+994,BMW,7 Series,2010,29459,Automatic,Gasoline,199040,Excellent,Hatchback,Gray
+995,Hyundai,Sonata,2016,23377,Automatic,Gasoline,88601,Like New,Coupe,Black
+996,Toyota,Prius,2011,19535,Automatic,Gasoline,173940,Excellent,Hatchback,Gray
+997,Ford,Edge,2017,21024,CVT,Gasoline,97411,Excellent,SUV,Silver
+998,Chevrolet,Camaro,2022,21307,Automatic,Gasoline,43819,Excellent,Sedan,Green
+999,BMW,X3,2014,24727,Automatic,Gasoline,107905,Like New,Coupe,Green
+1000,Honda,Accord,2020,21890,Automatic,Hybrid,43714,Like New,Truck,White
