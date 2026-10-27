@@ -40,14 +40,16 @@ def manufacturer_chart(df):
 
 
 def price_distribution_chart(df):
-    """Histogram of vehicle price distribution."""
+    """Histogram of vehicle selling price distribution."""
+    if 'selling_price' not in df.columns:
+        return ""
     fig = px.histogram(
         df,
-        x='price',
+        x='selling_price',
         nbins=30,
-        title="Vehicle Price Distribution",
+        title="Vehicle Selling Price Distribution",
         color_discrete_sequence=['#0d6efd'],
-        labels={'price': 'Price ($USD)'}
+        labels={'selling_price': 'Selling Price ($)'}
     )
     fig.update_layout(
         template="plotly_white",
@@ -59,8 +61,8 @@ def price_distribution_chart(df):
 
 def fuel_type_chart(df):
     """Donut chart for fuel type breakdown."""
-    if 'fuel' in df.columns:
-        fuel_counts = df['fuel'].value_counts().reset_index()
+    if 'fuel_type' in df.columns:
+        fuel_counts = df['fuel_type'].value_counts().reset_index()
         fuel_counts.columns = ['Fuel Type', 'Count']
         fig = px.pie(
             fuel_counts,
@@ -76,3 +78,18 @@ def fuel_type_chart(df):
         )
         return opy.plot(fig, auto_open=False, output_type='div', include_plotlyjs=False)
     return ""
+
+
+def get_vehicles_above_price(df: pd.DataFrame, min_price: float = 5000, price_col: str = 'selling_price') -> pd.DataFrame:
+    """
+    Returns all vehicles where the price exceeds `min_price`.
+
+    :param df: pandas DataFrame containing vehicle data
+    :param min_price: Price threshold (default: 5000)
+    :param price_col: Column name to filter on ('selling_price' or 'wholesale_price')
+    :return: Filtered pandas DataFrame
+    """
+    if price_col not in df.columns:
+        raise ValueError(f"Column '{price_col}' not found in DataFrame.")
+
+    return df[df[price_col] > min_price]

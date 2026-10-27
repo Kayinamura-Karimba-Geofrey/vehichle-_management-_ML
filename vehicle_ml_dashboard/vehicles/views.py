@@ -7,13 +7,14 @@ from .dashboard import (
     manufacturer_chart,
     price_distribution_chart,
     fuel_type_chart,
+    get_vehicles_above_price,
 )
 
 
 def dashboard_view(request):
-    csv_path = os.path.join(settings.BASE_DIR, "dummy_data", "vehicles_data_1000.csv")
+    csv_path = os.path.join(settings.BASE_DIR, "dummy_data", "vehicles_ml_dataset.csv")
     if not os.path.exists(csv_path):
-        csv_path = "dummy_data/vehicles_data_1000.csv"
+        csv_path = "dummy_data/vehicles_ml_dataset.csv"
 
     queryset = pd.read_csv(csv_path)
     df = pd.DataFrame(queryset)
@@ -21,7 +22,7 @@ def dashboard_view(request):
     # Basic metrics
     total_vehicles = len(df)
     unique_manufacturers = df['manufacturer'].nunique() if 'manufacturer' in df.columns else 0
-    avg_price = df['price'].mean() if 'price' in df.columns else 0
+    avg_price = df['selling_price'].mean() if 'selling_price' in df.columns else 0
     avg_year = int(df['year'].mean()) if 'year' in df.columns else 0
 
     context = {
