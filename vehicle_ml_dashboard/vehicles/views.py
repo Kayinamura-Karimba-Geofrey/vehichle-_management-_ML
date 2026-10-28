@@ -4,10 +4,10 @@ from django.conf import settings
 from django.shortcuts import render
 from .dashboard import (
     frequency_table,
-    manufacturer_chart,
-    price_distribution_chart,
-    fuel_type_chart,
     get_vehicles_above_price,
+    vehicles_above_price_table,
+    sales_by_manufacturer_transmission,
+    price_summary_by_manufacturer,
 )
 
 
@@ -25,11 +25,14 @@ def dashboard_view(request):
     avg_price = df['selling_price'].mean() if 'selling_price' in df.columns else 0
     avg_year = int(df['year'].mean()) if 'year' in df.columns else 0
 
+    filtered_above_5000 = get_vehicles_above_price(df, min_price=5000)
+
     context = {
         "frequency_table": frequency_table(df),
-        "manufacturer_chart": manufacturer_chart(df),
-        "price_chart": price_distribution_chart(df),
-        "fuel_chart": fuel_type_chart(df),
+        "sales_by_transmission_table": sales_by_manufacturer_transmission(df),
+        "price_summary_table": price_summary_by_manufacturer(df),
+        "vehicles_above_price_table": vehicles_above_price_table(df, min_price=5000, limit=100),
+        "vehicles_above_price_count": len(filtered_above_5000),
         "total_vehicles": total_vehicles,
         "unique_manufacturers": unique_manufacturers,
         "avg_price": f"${avg_price:,.2f}",

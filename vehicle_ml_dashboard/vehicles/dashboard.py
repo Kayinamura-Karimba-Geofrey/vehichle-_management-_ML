@@ -93,3 +93,67 @@ def get_vehicles_above_price(df: pd.DataFrame, min_price: float = 5000, price_co
         raise ValueError(f"Column '{price_col}' not found in DataFrame.")
 
     return df[df[price_col] > min_price]
+
+
+def vehicles_above_price_table(df: pd.DataFrame, min_price: float = 5000, limit: int = 100) -> str:
+    """
+    Renders an HTML table of vehicles whose selling price exceeds `min_price`.
+    """
+    filtered = get_vehicles_above_price(df, min_price=min_price, price_col='selling_price')
+    display_cols = [
+        col for col in ['manufacturer', 'year', 'body_type', 'transmission', 'fuel_type', 'vehicle_condition', 'selling_price']
+        if col in filtered.columns
+    ]
+    sample = filtered[display_cols].head(limit).copy()
+    if 'selling_price' in sample.columns:
+        sample['selling_price'] = sample['selling_price'].apply(lambda x: f"${x:,.2f}" if pd.notnull(x) else "")
+
+    sample.columns = [col.replace('_', ' ').title() for col in sample.columns]
+
+    return sample.to_html(
+        classes="table table-bordered table-striped table-sm table-hover align-middle text-center mb-0",
+        index=False
+    )
+
+
+def filter_by_price(df, min_price=5000):
+    price_col = 'selling_price'
+    filtered_df = df[df[price_col] > min_price]
+    table_html = filtered_df.to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center',
+        index=False,
+    )
+    return table_html
+
+
+def sales_by_manufacturer_transmission(df):
+    grouped_df = df.groupby(['manufacturer', 'transmission'])['selling_price'].sum().reset_index()
+    grouped_df.columns = ['manufacturer', 'transmission', 'total_selling_price']
+    table_html = grouped_df.to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center',
+        index=False,
+    )
+    return table_html
+
+
+def price_summary_by_manufacturer(df):
+    """
+    Computes summary price statistics (count, mean, min, max) for selling price
+    by manufacturer using pandas groupby and .agg().
+    """
+    grouped_df = df.groupby('manufacturer')['selling_price'].agg(
+        ['count', 'mean', 'min', 'max']
+    ).reset_index()
+    grouped_df.columns = ['manufacturer', 'total_count', 'avg_price', 'min_price', 'max_price']
+    table_html = grouped_df.to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center',
+        index=False,
+    )
+    return table_html
+

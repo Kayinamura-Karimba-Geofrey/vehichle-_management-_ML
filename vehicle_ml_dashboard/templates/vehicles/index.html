@@ -91,19 +91,19 @@
                     <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#frequency-table">
                         <i class="bi bi-table text-info"></i> Frequency Tables (One-way)
                     </a>
-                    {% if manufacturer_chart %}
-                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#manufacturer-chart">
-                        <i class="bi bi-bar-chart-fill text-success"></i> Manufacturer Breakdown
+                    {% if vehicles_above_price_table %}
+                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#vehicles-above-price">
+                        <i class="bi bi-cash-stack text-primary"></i> Vehicles &gt; $5,000
                     </a>
                     {% endif %}
-                    {% if price_chart %}
-                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#price-chart">
-                        <i class="bi bi-graph-up text-warning"></i> Price Distribution
+                    {% if sales_by_transmission_table %}
+                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#sales-by-transmission">
+                        <i class="bi bi-gear-wide-connected text-success"></i> Sales by Transmission
                     </a>
                     {% endif %}
-                    {% if fuel_chart %}
-                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#fuel-chart">
-                        <i class="bi bi-pie-chart-fill text-danger"></i> Fuel Types
+                    {% if price_summary_table %}
+                    <a class="list-group-item list-group-item-action d-flex align-items-center gap-2" href="#price-summary">
+                        <i class="bi bi-bar-chart-steps text-warning"></i> Price Summary (.agg)
                     </a>
                     {% endif %}
                 </div>
@@ -183,38 +183,51 @@
                         </div>
                     </div>
 
-                    {% if manufacturer_chart %}
-                    <!-- Manufacturer Chart -->
-                    <div id="manufacturer-chart" class="card shadow-sm mb-5">
-                        <div class="card-header bg-success text-white">
-                            <i class="bi bi-bar-chart-fill me-2"></i>Manufacturer Vehicle Volume
+                    {% if sales_by_transmission_table %}
+                    <!-- Sales by Manufacturer & Transmission Table -->
+                    <div id="sales-by-transmission" class="card shadow-sm mb-5">
+                        <div class="card-header bg-success text-white d-flex align-items-center justify-content-between">
+                            <span><i class="bi bi-gear-wide-connected me-2"></i>Total Sales by Manufacturer &amp; Transmission</span>
+                            <span class="badge bg-light text-dark">Groupby Summary</span>
                         </div>
                         <div class="card-body">
-                            {{ manufacturer_chart|safe }}
+                            <div class="table-responsive">
+                                {{ sales_by_transmission_table|safe }}
+                            </div>
                         </div>
                     </div>
                     {% endif %}
 
-                    {% if price_chart %}
-                    <!-- Price Distribution Chart -->
-                    <div id="price-chart" class="card shadow-sm mb-5">
-                        <div class="card-header bg-warning text-dark">
-                            <i class="bi bi-graph-up me-2"></i>Vehicle Price Distribution
+                    {% if price_summary_table %}
+                    <!-- Price Summary by Manufacturer Table (.agg) -->
+                    <div id="price-summary" class="card shadow-sm mb-5">
+                        <div class="card-header bg-warning text-dark d-flex align-items-center justify-content-between">
+                            <span><i class="bi bi-bar-chart-steps me-2"></i>Price Summary by Manufacturer (.agg)</span>
+                            <span class="badge bg-dark text-white">Aggregated Statistics</span>
                         </div>
                         <div class="card-body">
-                            {{ price_chart|safe }}
+                            <div class="table-responsive">
+                                {{ price_summary_table|safe }}
+                            </div>
                         </div>
                     </div>
                     {% endif %}
 
-                    {% if fuel_chart %}
-                    <!-- Fuel Distribution Chart -->
-                    <div id="fuel-chart" class="card shadow-sm mb-5">
-                        <div class="card-header bg-danger text-white">
-                            <i class="bi bi-pie-chart-fill me-2"></i>Fuel Type Proportion
+                    {% if vehicles_above_price_table %}
+                    <!-- Vehicles with Price > $5,000 Table -->
+                    <div id="vehicles-above-price" class="card shadow-sm mb-5">
+                        <div class="card-header bg-primary text-white d-flex align-items-center justify-content-between">
+                            <span><i class="bi bi-cash-stack me-2"></i>Vehicles with Selling Price &gt; $5,000</span>
+                            <span class="badge bg-light text-primary fw-semibold">{{ vehicles_above_price_count }} Total Matching</span>
                         </div>
-                        <div class="card-body">
-                            {{ fuel_chart|safe }}
+                        <div class="card-body p-0">
+                            <div class="table-responsive" style="max-height: 440px; overflow-y: auto;">
+                                {{ vehicles_above_price_table|safe }}
+                            </div>
+                        </div>
+                        <div class="card-footer text-muted small d-flex justify-content-between align-items-center bg-light">
+                            <span><i class="bi bi-info-circle me-1"></i>Showing first 100 records (scrollable)</span>
+                            <span class="badge bg-secondary">Criteria: selling_price &gt; 5,000</span>
                         </div>
                     </div>
                     {% endif %}
